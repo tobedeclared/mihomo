@@ -21,7 +21,7 @@ proxy-providers:
     override:
       udp: true
       ip-version: ipv4-prefer
-    
+
     exclude-filter: Yandex|Majordomo|cloud.ru
     exclude-type: ss|trojan
 
@@ -67,7 +67,7 @@ proxy-groups:
     include-all: true
     exclude-type: DIRECT
     url: https://www.gstatic.com/generate_204
-    interval: 90
+    interval: 60
     timeout: 2000
     max-failed-times: 2
 
@@ -76,7 +76,8 @@ proxy-groups:
     include-all: true
     exclude-type: DIRECT
     url: https://www.gstatic.com/generate_204
-    interval: 90
+    interval: 120
+    lazy: false
     timeout: 2000
     max-failed-times: 2
     tolerance: 100
@@ -97,7 +98,7 @@ rule-providers:
     interval: 86400
     behavior: domain
     format: mrs
-    
+
   sds@processes:
     type: http
     path: ./rulesets/sds@processes.yaml
@@ -105,7 +106,7 @@ rule-providers:
     interval: 86400
     behavior: classical
     format: yaml
-    
+
 rules: 
   - RULE-SET,sds@processes,DIRECT
   - RULE-SET,sds@ipcidr,DIRECT

@@ -1,0 +1,112 @@
+allow-lan: true
+log-level: info
+ipv6: false
+
+find-process-mode: strict
+
+proxy-providers:
+
+  zieng2@provider:
+    type: http
+    path: ./providers/zieng2@provider.yaml
+    url: https://raw.githubusercontent.com/zieng2/wl/main/vless_lite.txt
+    interval: 14400
+
+    health-check:
+      enable: true
+      url: https://www.gstatic.com/generate_204
+      interval: 604800
+      timeout: 1000
+
+    override:
+      udp: true
+      ip-version: ipv4-prefer
+    
+    exclude-type: ss|trojan
+
+redir-port: 7893
+tproxy-port: 7894
+
+unified-delay: false
+tcp-concurrent: true
+
+profile:
+  store-selected: true
+
+sniffer:
+  enable: true
+  force-dns-mapping: true
+  parse-pure-ip: true
+  sniff:
+    HTTP:
+    TLS:
+
+dns:
+  enable: true
+  cache-algorithm: arc
+  ipv6: false
+  default-nameserver:
+    - tls://77.88.8.8
+    - tls://77.88.8.1
+  nameserver:
+    - tls://77.88.8.8
+    - tls://77.88.8.1
+  fallback:
+    - tls://77.88.8.8
+    - tls://77.88.8.1
+  proxy-server-nameserver:
+    - tls://77.88.8.8
+    - tls://77.88.8.1
+
+proxy-groups:
+
+  - name: CHOICE
+    type: select
+    proxies: [ AUTO (FASTEST) ]
+    include-all: true
+    exclude-type: DIRECT
+    url: https://www.gstatic.com/generate_204
+    interval: 90
+    timeout: 2000
+    max-failed-times: 2
+
+  - name: AUTO (FASTEST)
+    type: url-test
+    include-all: true
+    exclude-type: DIRECT
+    url: https://www.gstatic.com/generate_204
+    interval: 90
+    timeout: 2000
+    max-failed-times: 2
+    tolerance: 100
+
+rule-providers:
+  sds@ipcidr:
+    type: http
+    path: ./sds@ipcidr.yaml
+    url: https://github.com/tobedeclared/mihomo/raw/main/rules/ipcidr/sds@ipcidr.mrs
+    interval: 86400
+    behavior: ipcidr
+    format: mrs
+  
+  sds@domains:
+    type: http
+    path: ./sds@domains.yaml
+    url: https://github.com/tobedeclared/mihomo/raw/main/rules/domains/sds@domains.mrs
+    interval: 86400
+    behavior: domain
+    format: mrs
+    
+  sds@processes:
+    type: http
+    path: ./sds@processes.yaml
+    url: https://github.com/tobedeclared/mihomo/raw/main/rules/processes/sds@processes.yaml
+    interval: 86400
+    behavior: classical
+    format: yaml
+    
+rules: 
+  - RULE-SET,sds@processes,DIRECT
+  - RULE-SET,sds@ipcidr,DIRECT
+  - RULE-SET,sds@domains,DIRECT
+  - MATCH,CHOICE

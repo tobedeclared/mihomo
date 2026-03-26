@@ -1,0 +1,31 @@
+payload:
+  - PROCESS-NAME,com.logistic.sdek # CDEK
+  - PROCESS-NAME,ru.oneme.app # MAX
+  - PROCESS-NAME,ru.nspk.mirpay # Mir Pay
+  - PROCESS-NAME,ru.ozon.app.android # OZON
+  - PROCESS-NAME,ru.ozon.fintech.finance # Ozon Банк
+  - PROCESS-NAME,ru.vk.store # RuStore
+  - PROCESS-NAME,com.wildberries.ru # Wildberries
+  - PROCESS-NAME,ru.yota.android # Yota
+  - PROCESS-NAME,com.avito.android # Авито
+  - PROCESS-NAME,com.yandex.aliceapp # Алиса AI
+  - PROCESS-NAME,ru.rostel # Госуслуги
+  - PROCESS-NAME,ru.gosuslugi.goskey # Госключ
+  - PROCESS-NAME,ru.kinopoisk # Кинопоиск
+  - PROCESS-NAME,ru.beru.android # Маркет
+  - PROCESS-NAME,ru.mts.mymts # Мой МТС
+  - PROCESS-NAME,ru.yandex.translate # Переводчик
+  - PROCESS-NAME,ru.octopod.russianpost.client.android # Почта России
+  - PROCESS-NAME,ru.yandex.weatherplugin # Я.Погода
+  - PROCESS-NAME,ru.yandex.taxi # Яндекс Go 
+  - PROCESS-NAME,ru.yandex.key # Яндекс ID (Ключ) 
+  - PROCESS-NAME,ru.foodfox.client # Яндекс Еда 
+  - PROCESS-NAME,ru.yandex.music # Яндекс Музыка 
+  - PROCESS-NAME,ru.yandex.mail # Яндекс Почта 
+  - PROCESS-NAME,com.yandex.bank # Яндекс Пэй
+  - PROCESS-NAME,ru.yandex.disk # Яндекс Диск
+  - PROCESS-NAME,ru.yandex.yandexmaps # Яндекс Карты
+  - PROCESS-NAME,com.yandex.lavka # Яндекс Лавка
+  - PROCESS-NAME,ru.ok.android # ОК
+  - PROCESS-NAME,rtb.mobile.android # RUTUBE
+  - PROCESS-NAME,com.vkontakte.android # VK

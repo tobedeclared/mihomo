@@ -83,7 +83,7 @@ proxy-groups:
 rule-providers:
   sds@ipcidr:
     type: http
-    path: ./sds@ipcidr.yaml
+    path: ./rulesets/sds@ipcidr.yaml
     url: https://github.com/tobedeclared/mihomo/raw/main/rules/ipcidr/sds@ipcidr.mrs
     interval: 86400
     behavior: ipcidr
@@ -91,7 +91,7 @@ rule-providers:
   
   sds@domains:
     type: http
-    path: ./sds@domains.yaml
+    path: ./rulesets/sds@domains.yaml
     url: https://github.com/tobedeclared/mihomo/raw/main/rules/domains/sds@domains.mrs
     interval: 86400
     behavior: domain
@@ -99,7 +99,7 @@ rule-providers:
     
   sds@processes:
     type: http
-    path: ./sds@processes.yaml
+    path: ./rulesets/sds@processes.yaml
     url: https://github.com/tobedeclared/mihomo/raw/main/rules/processes/sds@processes.yaml
     interval: 86400
     behavior: classical

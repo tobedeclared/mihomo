@@ -44,50 +44,61 @@ sniffer:
 
 dns:
   enable: true
-  cache-algorithm: arc
   ipv6: false
   default-nameserver:
+    - dhcp://system
     - tls://77.88.8.8
-    - tls://77.88.8.1
-  nameserver:
-    - tls://77.88.8.8
-    - tls://77.88.8.1
-  fallback:
-    - tls://77.88.8.8
-    - tls://77.88.8.1
-  proxy-server-nameserver:
-    - tls://77.88.8.8
-    - tls://77.88.8.1
 
 proxy-groups:
 
-  - name: CHOICE
+  - name: Выберите режим
     type: select
-    proxies: [ AUTO (FASTEST) ]
-    include-all: true
+    proxies:
+      - Авто (быстрый)
+      - Авто (живой)
     exclude-type: DIRECT
     url: https://www.gstatic.com/generate_204
     interval: 60
-    timeout: 2000
+    timeout: 1500
     max-failed-times: 2
 
-  - name: AUTO (FASTEST)
+  - name: Авто (быстрый)
     type: url-test
+    hidden: true
     include-all: true
     exclude-type: DIRECT
     url: https://www.gstatic.com/generate_204
-    interval: 120
-    lazy: false
-    timeout: 2000
-    max-failed-times: 2
     tolerance: 100
 
+  - name: Авто (живой)
+    type: fallback
+    hidden: true
+    include-all: true
+    exclude-type: DIRECT
+    url: https://www.gstatic.com/generate_204
+
 rule-providers:
+  block@other:
+    type: http
+    path: ./rulesets/block@other.yaml
+    url: https://github.com/tobedeclared/mihomo/raw/main/rules/other/block@other.yaml
+    interval: 259200 # 72 часа
+    behavior: classical
+    format: yaml
+
+  sds@processes:
+    type: http
+    path: ./rulesets/sds@processes.yaml
+    url: https://github.com/tobedeclared/mihomo/raw/main/rules/processes/sds@processes.yaml
+    interval: 259200
+    behavior: classical
+    format: yaml
+
   sds@ipcidr:
     type: http
     path: ./rulesets/sds@ipcidr.yaml
     url: https://github.com/tobedeclared/mihomo/raw/main/rules/ipcidr/sds@ipcidr.mrs
-    interval: 86400
+    interval: 259200
     behavior: ipcidr
     format: mrs
   
@@ -95,20 +106,13 @@ rule-providers:
     type: http
     path: ./rulesets/sds@domains.yaml
     url: https://github.com/tobedeclared/mihomo/raw/main/rules/domains/sds@domains.mrs
-    interval: 86400
+    interval: 259200
     behavior: domain
     format: mrs
 
-  sds@processes:
-    type: http
-    path: ./rulesets/sds@processes.yaml
-    url: https://github.com/tobedeclared/mihomo/raw/main/rules/processes/sds@processes.yaml
-    interval: 86400
-    behavior: classical
-    format: yaml
-
-rules: 
+rules:
+  - RULE-SET,block@other,REJECT
   - RULE-SET,sds@processes,DIRECT
   - RULE-SET,sds@ipcidr,DIRECT
   - RULE-SET,sds@domains,DIRECT
-  - MATCH,CHOICE
+  - MATCH,Выберите режим

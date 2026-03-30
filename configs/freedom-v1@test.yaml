@@ -1,6 +1,11 @@
 allow-lan: true
-log-level: info
+mode: rule
+log-level: warning
 ipv6: false
+
+keep-alive-interval: 15
+keep-alive-idle: 15
+disable-keep-alive: false
 
 find-process-mode: strict
 
@@ -36,6 +41,7 @@ profile:
 
 sniffer:
   enable: true
+  cache-algorithm: arc
   force-dns-mapping: true
   parse-pure-ip: true
   sniff:

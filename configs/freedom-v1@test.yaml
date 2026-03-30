@@ -46,8 +46,15 @@ dns:
   enable: true
   ipv6: false
   default-nameserver:
-    - dhcp://system
     - tls://77.88.8.8
+  nameserver:
+    - tls://77.88.8.8
+  fallback:
+    - tls://77.88.8.8
+  proxy-server-nameserver:
+    - tls://77.88.8.8
+  direct-nameserver:
+    - dhcp://system
 
 proxy-groups:
 

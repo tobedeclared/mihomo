@@ -80,7 +80,7 @@ proxy-groups:
 
   - name: Авто
     type: fallback
-    hidden: false
+    #hidden: false
     proxies:
       - Быстрый 1
       - Быстрый 2

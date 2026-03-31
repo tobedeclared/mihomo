@@ -64,31 +64,81 @@ dns:
 
 proxy-groups:
 
-  - name: Выберите режим
+  - name: Режим
     type: select
     proxies:
-      - Авто (быстрый)
-      - Авто (живой)
+      - Авто
+      - Ручной
     exclude-type: DIRECT
     url: https://www.gstatic.com/generate_204
     interval: 60
     timeout: 1500
     max-failed-times: 2
 
-  - name: Авто (быстрый)
+  - name: Ручной
+    type: select
+    include-all: true
+    exclude-type: DIRECT
+    url: https://www.gstatic.com/generate_204
+    interval: 60
+    timeout: 1500
+    max-failed-times: 2
+
+  - name: Авто
+    type: fallback
+    hidden: true
+    proxies:
+      - Быстрый 1
+      - Быстрый 2
+      - Быстрый 3
+      - Быстрый 4
+      - Быстрый 5
+    url: https://www.gstatic.com/generate_204
+
+  - name: Быстрый 1
     type: url-test
     hidden: true
     include-all: true
+    filter: '*#([0-9]{2}|100)'
     exclude-type: DIRECT
     url: https://www.gstatic.com/generate_204
     tolerance: 100
 
-  - name: Авто (живой)
-    type: fallback
+  - name: Быстрый 2
+    type: url-test
     hidden: true
     include-all: true
+    filter: '*#(1[0-9]{2}|200)'
     exclude-type: DIRECT
     url: https://www.gstatic.com/generate_204
+    tolerance: 100
+
+  - name: Быстрый 3
+    type: url-test
+    hidden: true
+    include-all: true
+    filter: '*#(2[0-9]{2}|300)'
+    exclude-type: DIRECT
+    url: https://www.gstatic.com/generate_204
+    tolerance: 100
+
+  - name: Быстрый 4
+    type: url-test
+    hidden: true
+    include-all: true
+    filter: '*#(3[0-9]{2}|400)'
+    exclude-type: DIRECT
+    url: https://www.gstatic.com/generate_204
+    tolerance: 100
+
+  - name: Быстрый 5
+    type: url-test
+    hidden: true
+    include-all: true
+    filter: '*#(4[0-9]{2}|500)'
+    exclude-type: DIRECT
+    url: https://www.gstatic.com/generate_204
+    tolerance: 100
 
 rule-providers:
   block@other:
@@ -128,4 +178,4 @@ rules:
   - RULE-SET,sds@processes,DIRECT
   - RULE-SET,sds@ipcidr,DIRECT
   - RULE-SET,sds@domains,DIRECT
-  - MATCH,Выберите режим
+  - MATCH,Режим

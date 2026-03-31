@@ -99,7 +99,7 @@ proxy-groups:
     type: url-test
     hidden: true
     include-all: true
-    filter: *#([0-9]{2}|100)
+    filter: "*#([0-9]{2}|100)"
     exclude-type: DIRECT
     url: https://www.gstatic.com/generate_204
     tolerance: 100
@@ -108,7 +108,7 @@ proxy-groups:
     type: url-test
     hidden: true
     include-all: true
-    filter: *#(1[0-9]{2}|200)
+    filter: "*#(1[0-9]{2}|200)"
     exclude-type: DIRECT
     url: https://www.gstatic.com/generate_204
     tolerance: 100
@@ -117,7 +117,7 @@ proxy-groups:
     type: url-test
     hidden: true
     include-all: true
-    filter: *#(2[0-9]{2}|300)
+    filter: "*#(2[0-9]{2}|300)"
     exclude-type: DIRECT
     url: https://www.gstatic.com/generate_204
     tolerance: 100
@@ -126,7 +126,7 @@ proxy-groups:
     type: url-test
     hidden: true
     include-all: true
-    filter: *#(3[0-9]{2}|400)
+    filter: "*#(3[0-9]{2}|400)"
     exclude-type: DIRECT
     url: https://www.gstatic.com/generate_204
     tolerance: 100
@@ -135,7 +135,7 @@ proxy-groups:
     type: url-test
     hidden: true
     include-all: true
-    filter: *#(4[0-9]{2}|500)
+    filter: "*#(4[0-9]{2}|500)"
     exclude-type: DIRECT
     url: https://www.gstatic.com/generate_204
     tolerance: 100

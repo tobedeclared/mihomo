@@ -71,22 +71,16 @@ proxy-groups:
       - Ручной
     exclude-type: DIRECT
     url: https://www.gstatic.com/generate_204
-    interval: 60
-    timeout: 1500
-    max-failed-times: 2
 
   - name: Ручной
     type: select
     include-all: true
     exclude-type: DIRECT
     url: https://www.gstatic.com/generate_204
-    interval: 60
-    timeout: 1500
-    max-failed-times: 2
 
   - name: Авто
     type: fallback
-    hidden: true
+    hidden: false
     proxies:
       - Быстрый 1
       - Быстрый 2
@@ -94,6 +88,10 @@ proxy-groups:
       - Быстрый 4
       - Быстрый 5
     url: https://www.gstatic.com/generate_204
+    interval: 60
+    lazy: false
+    timeout: 1200
+    max-failed-times: 2
 
   - name: Быстрый 1
     type: url-test

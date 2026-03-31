@@ -72,15 +72,8 @@ proxy-groups:
     exclude-type: DIRECT
     url: https://www.gstatic.com/generate_204
 
-  - name: Ручной
-    type: select
-    include-all: true
-    exclude-type: DIRECT
-    url: https://www.gstatic.com/generate_204
-
   - name: Авто
     type: fallback
-    #hidden: false
     proxies:
       - Быстрый 1
       - Быстрый 2
@@ -89,9 +82,12 @@ proxy-groups:
       - Быстрый 5
     url: https://www.gstatic.com/generate_204
     interval: 60
-    lazy: false
-    timeout: 1200
-    max-failed-times: 2
+
+  - name: Ручной
+    type: select
+    include-all: true
+    exclude-type: DIRECT
+    url: https://www.gstatic.com/generate_204
 
   - name: Быстрый 1
     type: url-test
@@ -100,7 +96,11 @@ proxy-groups:
     filter: "#([0-9]{2}|100)"
     exclude-type: DIRECT
     url: https://www.gstatic.com/generate_204
+    interval: 60
     tolerance: 100
+    lazy: false
+    timeout: 1200
+    max-failed-times: 2
 
   - name: Быстрый 2
     type: url-test
@@ -109,7 +109,11 @@ proxy-groups:
     filter: "#(1[0-9]{2}|200)"
     exclude-type: DIRECT
     url: https://www.gstatic.com/generate_204
+    interval: 60
     tolerance: 100
+    lazy: false
+    timeout: 1200
+    max-failed-times: 2
 
   - name: Быстрый 3
     type: url-test
@@ -118,7 +122,11 @@ proxy-groups:
     filter: "#(2[0-9]{2}|300)"
     exclude-type: DIRECT
     url: https://www.gstatic.com/generate_204
+    interval: 60
     tolerance: 100
+    lazy: false
+    timeout: 1200
+    max-failed-times: 2
 
   - name: Быстрый 4
     type: url-test
@@ -127,7 +135,11 @@ proxy-groups:
     filter: "#(3[0-9]{2}|400)"
     exclude-type: DIRECT
     url: https://www.gstatic.com/generate_204
+    interval: 60
     tolerance: 100
+    lazy: false
+    timeout: 1200
+    max-failed-times: 2
 
   - name: Быстрый 5
     type: url-test
@@ -136,7 +148,11 @@ proxy-groups:
     filter: "#(4[0-9]{2}|500)"
     exclude-type: DIRECT
     url: https://www.gstatic.com/generate_204
+    interval: 60
     tolerance: 100
+    lazy: false
+    timeout: 1200
+    max-failed-times: 2
 
 rule-providers:
   block@other:

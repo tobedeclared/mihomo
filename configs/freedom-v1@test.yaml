@@ -1,6 +1,6 @@
 allow-lan: true
 mode: rule
-log-level: warning
+log-level: silent
 ipv6: false
 
 keep-alive-interval: 15
@@ -21,17 +21,14 @@ proxy-providers:
       enable: true
       url: https://www.gstatic.com/generate_204
       interval: 604800
-      timeout: 2000
+      timeout: 1200
 
     override:
-      udp: true
+      # udp: true
       ip-version: ipv4-prefer
 
-    exclude-filter: Yandex|Majordomo|cloud.ru
+    filter: VK
     exclude-type: ss|trojan
-
-redir-port: 7893
-tproxy-port: 7894
 
 unified-delay: false
 tcp-concurrent: true
@@ -48,43 +45,15 @@ sniffer:
     HTTP:
     TLS:
 
-dns:
-  enable: true
-  ipv6: false
-  default-nameserver:
-    - tls://77.88.8.8
-  nameserver:
-    - tls://77.88.8.8
-  fallback:
-    - tls://77.88.8.8
-  proxy-server-nameserver:
-    - tls://77.88.8.8
-  direct-nameserver:
-    - dhcp://system
-
 proxy-groups:
 
   - name: Режим
     type: select
     proxies:
-      - Авто
+      - Авто (быстрый)
       - Ручной
     exclude-type: DIRECT
     url: https://www.gstatic.com/generate_204
-
-  - name: Авто
-    type: fallback
-    proxies:
-      - Быстрый 1
-      - Быстрый 2
-      - Быстрый 3
-      - Быстрый 4
-      - Быстрый 5
-    url: https://www.gstatic.com/generate_204
-    interval: 60
-    lazy: false
-    timeout: 1200
-    max-failed-times: 2
 
   - name: Ручной
     type: select
@@ -92,40 +61,17 @@ proxy-groups:
     exclude-type: DIRECT
     url: https://www.gstatic.com/generate_204
 
-  - name: Быстрый 1
+  - name: Авто (быстрый)
     type: url-test
     hidden: true
     include-all: true
-    filter: "#([0-9]{2}|100)"
     exclude-type: DIRECT
-
-  - name: Быстрый 2
-    type: url-test
-    hidden: true
-    include-all: true
-    filter: "#(1[0-9]{2}|200)"
-    exclude-type: DIRECT
-
-  - name: Быстрый 3
-    type: url-test
-    hidden: true
-    include-all: true
-    filter: "#(2[0-9]{2}|300)"
-    exclude-type: DIRECT
-
-  - name: Быстрый 4
-    type: url-test
-    hidden: true
-    include-all: true
-    filter: "#(3[0-9]{2}|400)"
-    exclude-type: DIRECT
-
-  - name: Быстрый 5
-    type: url-test
-    hidden: true
-    include-all: true
-    filter: "#(4[0-9]{2}|500)"
-    exclude-type: DIRECT
+    url: https://www.gstatic.com/generate_204
+    interval: 60
+    lazy: false
+    tolerance: 100
+    timeout: 1200
+    max-failed-times: 2
 
 rule-providers:
   block@other:

@@ -1,2 +1,2 @@
 payload:
-  - AND,((DST-PORT,443),(NETWORK,UDP),(NOT,((GEOIP,RU)))) # QUIC
+  - AND,((DST-PORT,443),(NETWORK,UDP)) # QUIC

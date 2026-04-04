@@ -71,7 +71,6 @@ proxy-groups:
     lazy: false
     tolerance: 100
     timeout: 1200
-    max-failed-times: 2
 
 rule-providers:
   block@other:

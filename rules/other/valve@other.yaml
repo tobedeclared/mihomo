@@ -1,0 +1,27 @@
+payload:
+  # Для входа в Steam и загрузки контента
+  - AND,((NETWORK,TCP),(DST-PORT,80))
+  - AND,((NETWORK,TCP),(DST-PORT,443))
+  - AND,((NETWORK,UDP),(DST-PORT,27015–27050))
+  - AND,((NETWORK,TCP),(DST-PORT,27015–27050))
+
+  # Клиент Steam
+  - AND,((NETWORK,UDP),(DST-PORT,4380))
+
+  # Клиент Steam - игровой трафик
+  - AND,((NETWORK,UDP),(DST-PORT,27000-27250))
+
+  # Клиент Steam - функция Remote Play
+  - AND,((NETWORK,UDP),(SRC-PORT,27031–27036))
+  - AND,((NETWORK,TCP),(SRC-PORT,27036))
+
+  # Выделенные или слушающие серверы - игровой трафик
+  - AND,((NETWORK,UDP),(SRC-PORT,27015))
+
+  # Выделенные или слушающие серверы - RCON-порт для SRCDS
+  - AND,((NETWORK,TCP),(SRC-PORT,27015))
+
+  # P2P-сеть Steamworks и голосовой чат Steam
+  - AND,((NETWORK,UDP),(DST-PORT,3478))
+  - AND,((NETWORK,UDP),(DST-PORT,4379-4380))
+  - AND,((NETWORK,UDP),(DST-PORT,27014–27030))

@@ -29,3 +29,4 @@ payload:
   - PROCESS-NAME,ru.ok.android # ОК
   - PROCESS-NAME,rtb.mobile.android # RUTUBE
   - PROCESS-NAME,com.vkontakte.android # VK
+  - PROCESS-NAME,ru.ivi.client # Иви

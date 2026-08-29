@@ -1,3 +1,5 @@
 source/
 *.exe
 *.ps1
+domains/cn@domains.mrs
+ipcidr/cn@ipcidr.mrs

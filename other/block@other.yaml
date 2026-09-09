@@ -1,2 +1,0 @@
-payload:
-  - AND,((DST-PORT,443),(NETWORK,UDP)) # QUIC

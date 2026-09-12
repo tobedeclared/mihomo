@@ -1,0 +1,11 @@
+payload:
+  - DOMAIN-SUFFIX,91.160.156.35.in-addr.arpa
+  - DOMAIN-SUFFIX,amazonaws.com
+  - DOMAIN-SUFFIX,appsflyersdk.com
+  - DOMAIN-SUFFIX,cdn5th.com
+  - DOMAIN-SUFFIX,iot-dns.com
+  - DOMAIN-SUFFIX,iot334.com
+  - DOMAIN-SUFFIX,tuya.com
+  - DOMAIN-SUFFIX,tuyacn.com
+  - DOMAIN-SUFFIX,tuyaeu.com
+  - DOMAIN-SUFFIX,tuyaus.com

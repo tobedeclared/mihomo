@@ -1,0 +1,22 @@
+payload:
+  - DOMAIN-SUFFIX,91.160.156.35.in-addr.arpa
+  - DOMAIN-SUFFIX,amazonaws.com
+  - DOMAIN-SUFFIX,appsflyersdk.com
+  - DOMAIN-SUFFIX,cdn5th.com
+  - DOMAIN-SUFFIX,iot-dns.com
+  - DOMAIN-SUFFIX,iot334.com
+  - DOMAIN-SUFFIX,tuya.com
+  - DOMAIN-SUFFIX,tuyacn.com
+  - DOMAIN-SUFFIX,tuyaeu.com
+  - DOMAIN-SUFFIX,tuyaus.com
+  - IP-CIDR,3.122.134.146/32,no-resolve
+  - IP-CIDR,3.123.124.46/32,no-resolve
+  - IP-CIDR,15.197.184.59/32,no-resolve
+  - IP-CIDR,39.102.218.130/32,no-resolve
+  - IP-CIDR,45.192.10.4/32,no-resolve
+  - IP-CIDR,45.195.222.93/32,no-resolve
+  - IP-CIDR,52.28.144.124/32,no-resolve
+  - IP-CIDR,76.223.21.194/32,no-resolve
+  - IP-CIDR,106.120.178.8/32,no-resolve
+  - IP-CIDR,152.32.176.128/32,no-resolve
+  - IP-CIDR,165.154.143.253/32,no-resolve

@@ -1,0 +1,11 @@
+payload:
+  - DOMAIN-SUFFIX,aliyuncs.com
+  - DOMAIN-SUFFIX,amazonaws.com
+  - DOMAIN-SUFFIX,bambulab.cn
+  - DOMAIN-SUFFIX,bambulab.com
+  - DOMAIN-SUFFIX,bblcdn.com
+  - DOMAIN-SUFFIX,bblmw.com
+  - DOMAIN-SUFFIX,iotcplatform.com
+  - DOMAIN-SUFFIX,kalay.net.cn
+  - DOMAIN-SUFFIX,lunkuocorp.com
+  - DOMAIN-SUFFIX,makerworld.com

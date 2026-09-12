@@ -1,0 +1,6 @@
+payload:
+  - DOMAIN-SUFFIX,cdn.jsdelivr.net
+  - DOMAIN-SUFFIX,cellmapper.net
+  - DOMAIN-SUFFIX,openstreetmap.org
+  - DOMAIN-SUFFIX,recaptcha.net
+  - DOMAIN-SUFFIX,unpkg.com

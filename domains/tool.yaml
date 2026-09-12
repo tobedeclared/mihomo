@@ -1,0 +1,20 @@
+payload:
+  - DOMAIN-SUFFIX,cdn.jsdelivr.net
+  - DOMAIN-SUFFIX,cellmapper.net
+  - DOMAIN-SUFFIX,openstreetmap.org
+  - DOMAIN-SUFFIX,recaptcha.net
+  - DOMAIN-SUFFIX,unpkg.com
+  - DOMAIN-SUFFIX,archive.org
+  - DOMAIN-SUFFIX,cpuid.com
+  - DOMAIN-SUFFIX,duckduckgo.com
+  - DOMAIN-SUFFIX,gravesoft.dev
+  - DOMAIN-SUFFIX,massgrave.dev
+  - DOMAIN-SUFFIX,mobatek.net
+  - DOMAIN-SUFFIX,notepad-plus-plus.org
+  - DOMAIN-SUFFIX,onlinesim.io
+  - DOMAIN-SUFFIX,panelook.com
+  - DOMAIN-SUFFIX,revouninstaller.com
+  - DOMAIN-SUFFIX,speedtest.net
+  - DOMAIN-SUFFIX,sublimehq.com
+  - DOMAIN-SUFFIX,sublimetext.com
+  - DOMAIN-SUFFIX,westbyte.com

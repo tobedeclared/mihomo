@@ -366,17 +366,12 @@ payload:
   - DOMAIN-SUFFIX,2gis.tj
   - DOMAIN-SUFFIX,2gis.uz
   - DOMAIN-SUFFIX,2gis.tech
-  - DOMAIN-SUFFIX,mc.yandex.ru
-  - DOMAIN-SUFFIX,top-fwz1.mail.ru
-  - DOMAIN-SUFFIX,www.tns-counter.ru
-  - DOMAIN-SUFFIX,st.top100.ru
-  - DOMAIN-SUFFIX,counter.yadro.ru
-  - DOMAIN-SUFFIX,sync.rambler.ru
-  - DOMAIN-SUFFIX,id.sber.ru
-  - DOMAIN-SUFFIX,visor.sberbank.ru
-  - DOMAIN-SUFFIX,ext.clickstream.sbrf.ru
-  - DOMAIN-SUFFIX,2gis.com
-  - DOMAIN-SUFFIX,2gis.ru
+  - DOMAIN-SUFFIX,yandex.ru
+  - DOMAIN-SUFFIX,mail.ru
+  - DOMAIN-SUFFIX,tns-counter.ru
+  - DOMAIN-SUFFIX,top100.ru
+  - DOMAIN-SUFFIX,yadro.ru
+  - DOMAIN-SUFFIX,rambler.ru
   - DOMAIN-SUFFIX,gismeteo.by
   - DOMAIN-SUFFIX,gismeteo.com
   - DOMAIN-SUFFIX,gismeteo.net

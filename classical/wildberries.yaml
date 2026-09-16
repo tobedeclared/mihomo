@@ -1,9 +1,9 @@
 payload:
-  - DOMAIN-SUFFIX,geobasket.ru
-  - DOMAIN-SUFFIX,paywb.com
   - DOMAIN-SUFFIX,wb.ru
-  - DOMAIN-SUFFIX,wbbasket.ru
   - DOMAIN-SUFFIX,wibes.ru
+  - DOMAIN-SUFFIX,paywb.com
+  - DOMAIN-SUFFIX,wbbasket.ru
+  - DOMAIN-SUFFIX,geobasket.ru
   - DOMAIN-SUFFIX,wildberries.ru
   - IP-CIDR,85.198.76.0/22,no-resolve
   - IP-CIDR,90.156.247.0/24,no-resolve

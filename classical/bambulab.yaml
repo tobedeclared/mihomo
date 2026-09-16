@@ -1,14 +1,14 @@
 payload:
-  - DOMAIN-SUFFIX,aliyuncs.com
-  - DOMAIN-SUFFIX,amazonaws.com
-  - DOMAIN-SUFFIX,bambulab.cn
-  - DOMAIN-SUFFIX,bambulab.com
-  - DOMAIN-SUFFIX,bblcdn.com
   - DOMAIN-SUFFIX,bblmw.com
-  - DOMAIN-SUFFIX,iotcplatform.com
+  - DOMAIN-SUFFIX,bblcdn.com
+  - DOMAIN-SUFFIX,bambulab.cn
+  - DOMAIN-SUFFIX,aliyuncs.com
+  - DOMAIN-SUFFIX,bambulab.com
   - DOMAIN-SUFFIX,kalay.net.cn
+  - DOMAIN-SUFFIX,amazonaws.com
   - DOMAIN-SUFFIX,lunkuocorp.com
   - DOMAIN-SUFFIX,makerworld.com
+  - DOMAIN-SUFFIX,iotcplatform.com
   - IP-CIDR,27.36.125.16/32,no-resolve
   - IP-CIDR,27.36.126.43/32,no-resolve
   - IP-CIDR,27.36.126.44/32,no-resolve

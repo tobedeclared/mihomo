@@ -1,11 +1,10 @@
 payload:
-  - DOMAIN-SUFFIX,lenta.ru
-  - DOMAIN-SUFFIX,lenta.ru
   - DOMAIN-SUFFIX,mail.ru
-  - DOMAIN-SUFFIX,rambler-co.ru
-  - DOMAIN-SUFFIX,rambler.ru
-  - DOMAIN-SUFFIX,tns-counter.ru
-  - DOMAIN-SUFFIX,top100.ru
-  - DOMAIN-SUFFIX,webvisor.org
+  - DOMAIN-SUFFIX,lenta.ru
   - DOMAIN-SUFFIX,yadro.ru
+  - DOMAIN-SUFFIX,top100.ru
   - DOMAIN-SUFFIX,yandex.ru
+  - DOMAIN-SUFFIX,rambler.ru
+  - DOMAIN-SUFFIX,webvisor.org
+  - DOMAIN-SUFFIX,rambler-co.ru
+  - DOMAIN-SUFFIX,tns-counter.ru

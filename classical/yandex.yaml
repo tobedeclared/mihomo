@@ -1,31 +1,31 @@
 payload:
-  - DOMAIN-SUFFIX,adfox.ru
-  - DOMAIN-SUFFIX,admetrica.ru
-  - DOMAIN-SUFFIX,dzen.ru
-  - DOMAIN-SUFFIX,dzeninfra.ru
-  - DOMAIN-SUFFIX,kinopoisk-ru.clstorage.net
-  - DOMAIN-SUFFIX,kinopoisk.ru
-  - DOMAIN-SUFFIX,naydex.net
-  - DOMAIN-SUFFIX,rostaxi.org
-  - DOMAIN-SUFFIX,turbopages.org
-  - DOMAIN-SUFFIX,webvisor.com
-  - DOMAIN-SUFFIX,webvisor.org
-  - DOMAIN-SUFFIX,xn--d1acpjx3f.xn--p1ai
   - DOMAIN-SUFFIX,ya.ru
-  - DOMAIN-SUFFIX,yads.tech
-  - DOMAIN-SUFFIX,yandex-bank.net
-  - DOMAIN-SUFFIX,yandex-images.clstorage.net
-  - DOMAIN-SUFFIX,yandex-team.ru
-  - DOMAIN-SUFFIX,yandex.com
-  - DOMAIN-SUFFIX,yandex.net
+  - DOMAIN-SUFFIX,dzen.ru
+  - DOMAIN-SUFFIX,adfox.ru
   - DOMAIN-SUFFIX,yandex.ru
-  - DOMAIN-SUFFIX,yandexadexchange.net
-  - DOMAIN-SUFFIX,yandexcloud.net
+  - DOMAIN-SUFFIX,yads.tech
+  - DOMAIN-SUFFIX,naydex.net
+  - DOMAIN-SUFFIX,yastat.net
+  - DOMAIN-SUFFIX,yandex.net
+  - DOMAIN-SUFFIX,yandex.com
+  - DOMAIN-SUFFIX,rostaxi.org
+  - DOMAIN-SUFFIX,webvisor.com
+  - DOMAIN-SUFFIX,yastatic.net
+  - DOMAIN-SUFFIX,webvisor.org
+  - DOMAIN-SUFFIX,dzeninfra.ru
+  - DOMAIN-SUFFIX,kinopoisk.ru
+  - DOMAIN-SUFFIX,admetrica.ru
   - DOMAIN-SUFFIX,yandexcom.net
+  - DOMAIN-SUFFIX,yandex-team.ru
+  - DOMAIN-SUFFIX,turbopages.org
+  - DOMAIN-SUFFIX,yandexcloud.net
+  - DOMAIN-SUFFIX,yandex-bank.net
   - DOMAIN-SUFFIX,yandexmetrica.com
   - DOMAIN-SUFFIX,yandexwebcache.org
-  - DOMAIN-SUFFIX,yastat.net
-  - DOMAIN-SUFFIX,yastatic.net
+  - DOMAIN-SUFFIX,yandexadexchange.net
+  - DOMAIN-SUFFIX,xn--d1acpjx3f.xn--p1ai
+  - DOMAIN-SUFFIX,kinopoisk-ru.clstorage.net
+  - DOMAIN-SUFFIX,yandex-images.clstorage.net
   - IP-CIDR,5.45.192.0/18,no-resolve
   - IP-CIDR,5.187.84.32/28,no-resolve
   - IP-CIDR,5.255.192.0/18,no-resolve

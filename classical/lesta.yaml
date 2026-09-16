@@ -1,9 +1,9 @@
 payload:
-  - DOMAIN-SUFFIX,lstprod.net
   - DOMAIN-SUFFIX,lesta.ru
   - DOMAIN-SUFFIX,lesta.pw
-  - DOMAIN-SUFFIX,www.wotp.vivox.com
   - DOMAIN-SUFFIX,tanki.su
+  - DOMAIN-SUFFIX,lstprod.net
+  - DOMAIN-SUFFIX,www.wotp.vivox.com
   - IP-CIDR,74.201.103.228/32,no-resolve
   - IP-CIDR,92.38.156.0/24,no-resolve
   - IP-CIDR,92.223.4.0/23,no-resolve

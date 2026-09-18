@@ -1,7 +1,7 @@
 payload:
-  - DOMAIN-SUFFIX,ria.ru
-  - DOMAIN-SUFFIX,mail.ru
-  - DOMAIN-SUFFIX,yadro.ru
-  - DOMAIN-SUFFIX,yandex.ru
-  - DOMAIN-SUFFIX,yandex.net
-  - DOMAIN-SUFFIX,tns-counter.ru
+  - +.ria.ru
+  - +.mail.ru
+  - +.yadro.ru
+  - +.yandex.ru
+  - +.yandex.net
+  - +.tns-counter.ru

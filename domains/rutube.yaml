@@ -1,6 +1,6 @@
 payload:
-  - DOMAIN-SUFFIX,rtbcdn.ru
-  - DOMAIN-SUFFIX,rutube.ru
-  - DOMAIN-SUFFIX,api.expf.ru
-  - DOMAIN-SUFFIX,rutubelist.ru
-  - DOMAIN-SUFFIX,8.230.248.89.in-addr.arpa
+  - +.rtbcdn.ru
+  - +.rutube.ru
+  - +.api.expf.ru
+  - +.rutubelist.ru
+  - +.8.230.248.89.in-addr.arpa

@@ -1,8 +1,8 @@
 payload:
-  - DOMAIN-SUFFIX,rbk.ru
-  - DOMAIN-SUFFIX,mail.ru
-  - DOMAIN-SUFFIX,yadro.ru
-  - DOMAIN-SUFFIX,yandex.ru
-  - DOMAIN-SUFFIX,mindbox.ru
-  - DOMAIN-SUFFIX,tns-counter.ru
-  - DOMAIN-SUFFIX,weborama-tech.ru
+  - +.rbk.ru
+  - +.mail.ru
+  - +.yadro.ru
+  - +.yandex.ru
+  - +.mindbox.ru
+  - +.tns-counter.ru
+  - +.weborama-tech.ru

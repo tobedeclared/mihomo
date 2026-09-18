@@ -1,4 +1,4 @@
 payload:
-  - DOMAIN-SUFFIX,samsung.com
-  - DOMAIN-SUFFIX,samsungdm.com
-  - DOMAIN-SUFFIX,samsungosp.com
+  - +.samsung.com
+  - +.samsungdm.com
+  - +.samsungosp.com

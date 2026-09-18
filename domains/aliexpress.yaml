@@ -1,13 +1,13 @@
 payload:
-  - DOMAIN-SUFFIX,aedns.ru
-  - DOMAIN-SUFFIX,ae-rus.net
-  - DOMAIN-SUFFIX,alicdn.com
-  - DOMAIN-SUFFIX,aliyun.com
-  - DOMAIN-SUFFIX,mmstat.com
-  - DOMAIN-SUFFIX,taobao.com
-  - DOMAIN-SUFFIX,alibaba.com
-  - DOMAIN-SUFFIX,aestatic.net
-  - DOMAIN-SUFFIX,aeplatform.ru
-  - DOMAIN-SUFFIX,aliexpress.ru
-  - DOMAIN-SUFFIX,aliexpress.com
-  - DOMAIN-SUFFIX,aliexpress-media.com
+  - +.aedns.ru
+  - +.ae-rus.net
+  - +.alicdn.com
+  - +.aliyun.com
+  - +.mmstat.com
+  - +.taobao.com
+  - +.alibaba.com
+  - +.aestatic.net
+  - +.aeplatform.ru
+  - +.aliexpress.ru
+  - +.aliexpress.com
+  - +.aliexpress-media.com

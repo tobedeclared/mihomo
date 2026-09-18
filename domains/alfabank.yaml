@@ -1,6 +1,6 @@
 payload:
-  - DOMAIN-SUFFIX,alfabank.ru
-  - DOMAIN-SUFFIX,alfabank.st
-  - DOMAIN-SUFFIX,myapelsin.ru
-  - DOMAIN-SUFFIX,alfadirect.ru
-  - DOMAIN-SUFFIX,alfabank.oavdo.amc
+  - +.alfabank.ru
+  - +.alfabank.st
+  - +.myapelsin.ru
+  - +.alfadirect.ru
+  - +.alfabank.oavdo.amc

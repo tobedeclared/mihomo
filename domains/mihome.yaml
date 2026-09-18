@@ -1,4 +1,4 @@
 payload:
-  - DOMAIN-SUFFIX,mi.com
-  - DOMAIN-SUFFIX,xiaomi.net
-  - DOMAIN-SUFFIX,sina.com.cn
+  - +.mi.com
+  - +.xiaomi.net
+  - +.sina.com.cn

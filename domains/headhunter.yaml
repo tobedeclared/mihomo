@@ -1,8 +1,8 @@
 payload:
-  - DOMAIN-SUFFIX,hh.ru
-  - DOMAIN-SUFFIX,hhcdn.ru
-  - DOMAIN-SUFFIX,hybrid.ai
-  - DOMAIN-SUFFIX,skcrtxr.com
-  - DOMAIN-SUFFIX,weborama.fr
-  - DOMAIN-SUFFIX,targetads.io
-  - DOMAIN-SUFFIX,weborama-tech.ru
+  - +.hh.ru
+  - +.hhcdn.ru
+  - +.hybrid.ai
+  - +.skcrtxr.com
+  - +.weborama.fr
+  - +.targetads.io
+  - +.weborama-tech.ru

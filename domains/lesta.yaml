@@ -1,6 +1,6 @@
 payload:
-  - DOMAIN-SUFFIX,lesta.ru
-  - DOMAIN-SUFFIX,lesta.pw
-  - DOMAIN-SUFFIX,tanki.su
-  - DOMAIN-SUFFIX,lstprod.net
-  - DOMAIN-SUFFIX,www.wotp.vivox.com
+  - +.lesta.ru
+  - +.lesta.pw
+  - +.tanki.su
+  - +.lstprod.net
+  - +.www.wotp.vivox.com

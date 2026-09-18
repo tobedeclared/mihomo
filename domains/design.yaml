@@ -1,6 +1,6 @@
 payload:
-  - DOMAIN-SUFFIX,envato.com
-  - DOMAIN-SUFFIX,textstudio.com
-  - DOMAIN-SUFFIX,themeforest.net
-  - DOMAIN-SUFFIX,jekyllthemes.org
-  - DOMAIN-SUFFIX,gift4designer.net
+  - +.envato.com
+  - +.textstudio.com
+  - +.themeforest.net
+  - +.jekyllthemes.org
+  - +.gift4designer.net

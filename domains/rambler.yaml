@@ -1,8 +1,8 @@
 payload:
-  - DOMAIN-SUFFIX,eda.ru
-  - DOMAIN-SUFFIX,yadro.ru
-  - DOMAIN-SUFFIX,rutube.ru
-  - DOMAIN-SUFFIX,top100.ru
-  - DOMAIN-SUFFIX,yandex.ru
-  - DOMAIN-SUFFIX,rambler.ru
-  - DOMAIN-SUFFIX,tns-counter.ru
+  - +.eda.ru
+  - +.yadro.ru
+  - +.rutube.ru
+  - +.top100.ru
+  - +.yandex.ru
+  - +.rambler.ru
+  - +.tns-counter.ru

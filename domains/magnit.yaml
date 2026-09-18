@@ -1,8 +1,8 @@
 payload:
-  - DOMAIN-SUFFIX,magnit.ru
-  - DOMAIN-SUFFIX,magnitpay.ru
-  - DOMAIN-SUFFIX,ws.tildacdn.com
-  - DOMAIN-SUFFIX,neo.tildacdn.com
-  - DOMAIN-SUFFIX,static.tildacdn.com
-  - DOMAIN-SUFFIX,ruprod.strmerce.live
-  - DOMAIN-SUFFIX,magnit.streamerce.live
+  - +.magnit.ru
+  - +.magnitpay.ru
+  - +.ws.tildacdn.com
+  - +.neo.tildacdn.com
+  - +.static.tildacdn.com
+  - +.ruprod.strmerce.live
+  - +.magnit.streamerce.live

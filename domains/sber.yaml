@@ -1,9 +1,9 @@
 payload:
-  - DOMAIN-SUFFIX,sber.ru
-  - DOMAIN-SUFFIX,stmtag.ru
-  - DOMAIN-SUFFIX,top100.ru
-  - DOMAIN-SUFFIX,sberbank.ru
-  - DOMAIN-SUFFIX,sberbank.com
-  - DOMAIN-SUFFIX,kaspersky.com
-  - DOMAIN-SUFFIX,sbermarketing.ru
-  - DOMAIN-SUFFIX,kaspersky-labs.com
+  - +.sber.ru
+  - +.stmtag.ru
+  - +.top100.ru
+  - +.sberbank.ru
+  - +.sberbank.com
+  - +.kaspersky.com
+  - +.sbermarketing.ru
+  - +.kaspersky-labs.com

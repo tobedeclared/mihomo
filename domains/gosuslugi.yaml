@@ -1,4 +1,4 @@
 payload:
-  - DOMAIN-SUFFIX,gu-st.ru
-  - DOMAIN-SUFFIX,goskey.ru
-  - DOMAIN-SUFFIX,gosuslugi.ru
+  - +.gu-st.ru
+  - +.goskey.ru
+  - +.gosuslugi.ru

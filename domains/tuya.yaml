@@ -1,11 +1,11 @@
 payload:
-  - DOMAIN-SUFFIX,tuya.com
-  - DOMAIN-SUFFIX,cdn5th.com
-  - DOMAIN-SUFFIX,iot334.com
-  - DOMAIN-SUFFIX,tuyacn.com
-  - DOMAIN-SUFFIX,tuyaeu.com
-  - DOMAIN-SUFFIX,tuyaus.com
-  - DOMAIN-SUFFIX,iot-dns.com
-  - DOMAIN-SUFFIX,amazonaws.com
-  - DOMAIN-SUFFIX,appsflyersdk.com
-  - DOMAIN-SUFFIX,91.160.156.35.in-addr.arpa
+  - +.tuya.com
+  - +.cdn5th.com
+  - +.iot334.com
+  - +.tuyacn.com
+  - +.tuyaeu.com
+  - +.tuyaus.com
+  - +.iot-dns.com
+  - +.amazonaws.com
+  - +.appsflyersdk.com
+  - +.91.160.156.35.in-addr.arpa

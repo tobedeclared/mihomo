@@ -1,7 +1,7 @@
 payload:
-  - DOMAIN-SUFFIX,wb.ru
-  - DOMAIN-SUFFIX,wibes.ru
-  - DOMAIN-SUFFIX,paywb.com
-  - DOMAIN-SUFFIX,wbbasket.ru
-  - DOMAIN-SUFFIX,geobasket.ru
-  - DOMAIN-SUFFIX,wildberries.ru
+  - +.wb.ru
+  - +.wibes.ru
+  - +.paywb.com
+  - +.wbbasket.ru
+  - +.geobasket.ru
+  - +.wildberries.ru

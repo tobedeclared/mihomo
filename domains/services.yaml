@@ -1,6 +1,6 @@
 payload:
-  - DOMAIN-SUFFIX,mtalk.google.com
-  - DOMAIN-SUFFIX,clients4.google.com
-  - DOMAIN-SUFFIX,safebrowsing.google.com
-  - DOMAIN-SUFFIX,mdp-appconf-ru.heytapdl.com
-  - DOMAIN-SUFFIX,optimizationguide-pa.googleapis.com
+  - +.mtalk.google.com
+  - +.clients4.google.com
+  - +.safebrowsing.google.com
+  - +.mdp-appconf-ru.heytapdl.com
+  - +.optimizationguide-pa.googleapis.com

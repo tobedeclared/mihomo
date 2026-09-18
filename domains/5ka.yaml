@@ -1,13 +1,13 @@
 payload:
-  - DOMAIN-SUFFIX,x5.ru
-  - DOMAIN-SUFFIX,5ka.ru
-  - DOMAIN-SUFFIX,mail.ru
-  - DOMAIN-SUFFIX,adfox.ru
-  - DOMAIN-SUFFIX,x5club.ru
-  - DOMAIN-SUFFIX,ngenix.net
-  - DOMAIN-SUFFIX,x5media.ru
-  - DOMAIN-SUFFIX,yandex.net
-  - DOMAIN-SUFFIX,myapelsin.ru
-  - DOMAIN-SUFFIX,x5static.net
-  - DOMAIN-SUFFIX,yastatic.net
-  - DOMAIN-SUFFIX,vk-analytics.ru
+  - +.x5.ru
+  - +.5ka.ru
+  - +.mail.ru
+  - +.adfox.ru
+  - +.x5club.ru
+  - +.ngenix.net
+  - +.x5media.ru
+  - +.yandex.net
+  - +.myapelsin.ru
+  - +.x5static.net
+  - +.yastatic.net
+  - +.vk-analytics.ru

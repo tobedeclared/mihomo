@@ -1,9 +1,9 @@
 payload:
-  - DOMAIN-SUFFIX,v2fly.org
-  - DOMAIN-SUFFIX,vercel.app
-  - DOMAIN-SUFFIX,openvpn.net
-  - DOMAIN-SUFFIX,metacubex.one
-  - DOMAIN-SUFFIX,rockblack.pro
-  - DOMAIN-SUFFIX,oversecure.pro
-  - DOMAIN-SUFFIX,rockblack.info
-  - DOMAIN-SUFFIX,tanixtvbox.com
+  - +.v2fly.org
+  - +.vercel.app
+  - +.openvpn.net
+  - +.metacubex.one
+  - +.rockblack.pro
+  - +.oversecure.pro
+  - +.rockblack.info
+  - +.tanixtvbox.com

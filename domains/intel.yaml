@@ -1,3 +1,3 @@
 payload:
-  - DOMAIN-SUFFIX,intel.com
-  - DOMAIN-SUFFIX,geolocation.onetrust.com
+  - +.intel.com
+  - +.geolocation.onetrust.com

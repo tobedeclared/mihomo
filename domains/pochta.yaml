@@ -1,4 +1,4 @@
 payload:
-  - DOMAIN-SUFFIX,pochta.ru
-  - DOMAIN-SUFFIX,russianpost.ru
-  - DOMAIN-SUFFIX,pochta-jam.wfmt.ru
+  - +.pochta.ru
+  - +.russianpost.ru
+  - +.pochta-jam.wfmt.ru

@@ -1,6 +1,6 @@
 payload:
-  - DOMAIN-SUFFIX,mts.ru
-  - DOMAIN-SUFFIX,mtsbank.ru
-  - DOMAIN-SUFFIX,mtsdengi.ru
-  - DOMAIN-SUFFIX,dbo-dengi.online
-  - DOMAIN-SUFFIX,13.44.87.213.in-addr.arpa
+  - +.mts.ru
+  - +.mtsbank.ru
+  - +.mtsdengi.ru
+  - +.dbo-dengi.online
+  - +.13.44.87.213.in-addr.arpa

@@ -1,4 +1,4 @@
 payload:
-  - DOMAIN-SUFFIX,ivi.ru
-  - DOMAIN-SUFFIX,ivicdn.tv
-  - DOMAIN-SUFFIX,tivision.ru
+  - +.ivi.ru
+  - +.ivicdn.tv
+  - +.tivision.ru

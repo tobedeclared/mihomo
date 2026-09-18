@@ -1,10 +1,10 @@
 payload:
-  - DOMAIN-SUFFIX,gid.ru
-  - DOMAIN-SUFFIX,rtbcdn.ru
-  - DOMAIN-SUFFIX,rutube.ru
-  - DOMAIN-SUFFIX,uma.media
-  - DOMAIN-SUFFIX,yandex.ru
-  - DOMAIN-SUFFIX,adhigh.net
-  - DOMAIN-SUFFIX,trex.media
-  - DOMAIN-SUFFIX,premier.one
-  - DOMAIN-SUFFIX,c.gpmdata.ru
+  - +.gid.ru
+  - +.rtbcdn.ru
+  - +.rutube.ru
+  - +.uma.media
+  - +.yandex.ru
+  - +.adhigh.net
+  - +.trex.media
+  - +.premier.one
+  - +.c.gpmdata.ru

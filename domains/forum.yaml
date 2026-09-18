@@ -1,6 +1,6 @@
 payload:
-  - DOMAIN-SUFFIX,4pda.to
-  - DOMAIN-SUFFIX,xdaforums.com
-  - DOMAIN-SUFFIX,mobileread.com
-  - DOMAIN-SUFFIX,spiceworks.com
-  - DOMAIN-SUFFIX,community.frame.work
+  - +.4pda.to
+  - +.xdaforums.com
+  - +.mobileread.com
+  - +.spiceworks.com
+  - +.community.frame.work

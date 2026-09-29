@@ -117,40 +117,40 @@ payload:
   - +.rustore.ru
   - +.aodahl.com
   - +.rustore.tv
-  - +.mtsbank.ru
+  - +.megafon.ru
   - +.armgs.team
-  - +.okko.sport
+  - +.mtsbank.ru
   - +.whitei.net
   - +.vkvideo.ru
-  - +.megafon.ru
   - +.yastat.net
+  - +.yandex.com
   - +.dev-my.com
   - +.lovina.app
-  - +.yandex.com
   - +.rambler.ru
+  - +.okko.sport
   - +.movika.com
-  - +.selcdn.net
   - +.vk-apps.ru
   - +.vk.company
+  - +.selcdn.net
   - +.adhigh.net
-  - +.vklive.app
   - +.naydex.net
+  - +.vklive.app
   - +.esforce.ru
   - +.vkcs.cloud
-  - +.trex.media
-  - +.mindbox.ru
   - +.yaklass.ru
+  - +.trex.media
   - +.vkuser.net
   - +.yandex.net
+  - +.mytopf.com
   - +.x5media.ru
   - +.bizmrg.com
   - +.cdnmail.ru
-  - +.mytopf.com
-  - +.gismeteo.st
-  - +.icqkids.com
-  - +.imgsmail.ru
+  - +.mtsdengi.ru
+  - +.skillbox.ru
+  - +.mpgw-my.com
   - +.wbbasket.ru
   - +.pixonic.com
+  - +.appsmail.ru
   - +.smailru.net
   - +.mailicq.org
   - +.vmailru.net
@@ -160,71 +160,70 @@ payload:
   - +.weborama.fr
   - +.cups.online
   - +.gamescup.ru
-  - +.viqeotv.com
   - +.startimg.ru
-  - +.appsmail.ru
+  - +.viqeotv.com
   - +.vkplay.live
   - +.alfabank.ru
   - +.skcrtxr.com
-  - +.icqmail.net
-  - +.icqmail.com
-  - +.skillbox.ru
   - +.api.expf.ru
+  - +.imgsmail.ru
+  - +.icqmail.net
+  - +.vk-apps.com
   - +.alfabank.st
-  - +.mpgw-my.com
+  - +.icqmail.com
+  - +.icqkids.com
   - +.icqgame.com
   - +.icqchat.com
-  - +.gitverse.ru
   - +.2gis.com.cy
+  - +.premier.one
   - +.esforce.com
   - +.vkclips.app
-  - +.mtsdengi.ru
-  - +.premier.one
-  - +.rostaxi.org
   - +.gismeteo.by
-  - +.meteofor.st
+  - +.gitverse.ru
   - +.koddobra.ru
-  - +.okkoinfo.ru
+  - +.meteofor.st
+  - +.gismeteo.st
   - +.gismeteo.ru
-  - +.vkcache.com
-  - +.tamtam.chat
   - +.userapi.com
-  - +.vk-apps.com
-  - +.skillbox.pro
+  - +.tamtam.chat
+  - +.vkcache.com
+  - +.rostaxi.org
+  - +.okkoinfo.ru
   - +.myapelsin.ru
-  - +.gismeteo.net
   - +.sportmail.ru
+  - +.tvgateway.ru
+  - +.gismeteo.net
   - +.gismeteo.com
-  - +.gosuslugi.ru
-  - +.bargipsy.com
+  - +.webvisor.com
   - +.meteofor.com
-  - +.c.gpmdata.ru
-  - +.magnitpay.ru
-  - +.chizhik.club
+  - +.tech-mail.ru
   - +.kinopoisk.ru
-  - +.yclients.com
-  - +.dzeninfra.ru
+  - +.bargipsy.com
+  - +.magnitpay.ru
+  - +.c.gpmdata.ru
   - +.mironline.ru
+  - +.chizhik.club
+  - +.dzeninfra.ru
+  - +.gosuslugi.ru
   - +.umschool.net
   - +.icqgames.com
   - +.vkontakte.ru
-  - +.tvgateway.ru
-  - +.webvisor.com
-  - +.tech-mail.ru
+  - +.yclients.com
+  - +.skillbox.pro
   - +.ru.ruwiki.ru
   - +.yastatic.net
   - +.targetads.io
+  - +.admetrica.ru
   - +.x5static.net
-  - +.geobasket.ru
   - +.vkusercdn.ru
-  - +.attachmy.com
+  - +.geobasket.ru
+  - +.rustore.team
   - +.icqtoday.com
   - +.icqtutor.com
   - +.icqvideo.com
   - +.staticmy.com
-  - +.rustore.team
   - +.tarantool.io
-  - +.admetrica.ru
+  - +.attachmy.com
   - +.webvisor.org
   - +.dev-my.games
   - +.mirabilis.com
@@ -236,96 +235,96 @@ payload:
   - +.cdek.shopping
   - +.code-class.ru
   - +.rutubelist.ru
-  - +.cybersport.ru
   - +.alfadirect.ru
-  - +.uxfeedback.ru
   - +.mobileicq.com
+  - +.uxfeedback.ru
+  - +.cybersport.ru
   - +.epicevents.gg
-  - +.prod-my.games
   - +.icq-phone.com
-  - +.icq-phone.org
+  - +.prod-my.games
   - +.sferum-dev.ru
+  - +.icq-phone.org
+  - +.playfamily.ru
   - +.rambler-co.ru
   - +.vk-portal.net
-  - +.playfamily.ru
   - +.icqsystem.com
   - +.icqbrasil.com
-  - +.icqbrazil.com
   - +.dbankcloud.ru
+  - +.icqbrazil.com
   - +.icqonline.com
-  - +.icq-online.com
-  - +.mirandaicq.com
-  - +.vkuseraudio.ru
-  - +.vkuserlive.net
-  - +.icqservice.com
-  - +.icqservers.com
-  - +.memealerts.com
   - +.vkuserphoto.ru
-  - +.wildberries.ru
-  - +.mobile-icq.com
-  - +.icq2mobile.com
-  - +.icq-mobile.com
-  - +.summerstage.ru
-  - +.turbopages.org
+  - +.icq-online.com
   - +.vkuservideo.ru
-  - +.icqsystems.com
+  - +.icqservers.com
   - +.yandex-team.ru
   - +.tns-counter.ru
+  - +.icqservice.com
+  - +.memealerts.com
+  - +.turbopages.org
+  - +.summerstage.ru
+  - +.wildberries.ru
+  - +.icq2mobile.com
+  - +.vkuserlive.net
+  - +.vkuseraudio.ru
+  - +.mobile-icq.com
   - +.russianpost.ru
+  - +.icq-mobile.com
+  - +.icqsystems.com
   - +.perekrestok.ru
-  - +.vk-analytics.ru
-  - +.skillfactory.ru
-  - +.datacloudmy.com
-  - +.icqpassword.com
-  - +.algoritmika.org
-  - +.ws.tildacdn.com
-  - +.yandex-bank.net
+  - +.mirandaicq.com
+  - +.vkuseraudio.com
   - +.yandexcloud.net
+  - +.vkuservideo.com
+  - +.datacloudmy.com
+  - +.icqanywhere.com
+  - +.vkuservideo.net
+  - +.algoritmika.org
+  - +.vkuseraudio.net
   - +.vkmessenger.app
   - +.vkmessenger.com
-  - +.vkuseraudio.net
-  - +.vkuseraudio.com
-  - +.icqflirting.com
-  - +.vkplay-arena.ru
-  - +.icqanywhere.com
+  - +.ws.tildacdn.com
   - +.knightspeak.com
-  - +.vkuservideo.com
-  - +.vkuservideo.net
-  - +.dbo-dengi.online
-  - +.it-territory.com
-  - +.tarantoolplus.ru
-  - +.weborama-tech.ru
-  - +.burgerkingrus.ru
-  - +.icq-download.com
-  - +.neo.tildacdn.com
-  - +.mediumquality.ru
+  - +.vkplay-arena.ru
+  - +.yandex-bank.net
+  - +.skillfactory.ru
+  - +.vk-analytics.ru
+  - +.icqpassword.com
+  - +.icqflirting.com
   - +.vkusnoitochka.ru
-  - +.dahlmessenger.com
-  - +.vkcloud-static.ru
-  - +.cdn3.terratraf.io
-  - +.tetrika-school.ru
+  - +.tarantoolplus.ru
+  - +.burgerkingrus.ru
+  - +.weborama-tech.ru
+  - +.icq-download.com
+  - +.mediumquality.ru
+  - +.it-territory.com
+  - +.dbo-dengi.online
+  - +.neo.tildacdn.com
   - +.yandexmetrica.com
+  - +.cdn3.terratraf.io
+  - +.vkcloud-static.ru
+  - +.dahlmessenger.com
+  - +.tetrika-school.ru
+  - +.alfabank.oavdo.amc
   - +.donationalerts.com
   - +.icqsupportteam.com
-  - +.alfabank.oavdo.amc
   - +.pochta-jam.wfmt.ru
   - +.yandexwebcache.org
   - +.xn--e1aigb.xn--p1ai
+  - +.russiandesigncup.ru
   - +.xn--80asgb.xn--p1ai
   - +.xn--80aqcf7a6do.com
-  - +.static.tildacdn.com
   - +.ozonusercontent.com
-  - +.russiandesigncup.ru
+  - +.static.tildacdn.com
   - +.xn----8sbeoy5bze.com
   - +.yandexadexchange.net
   - +.ruprod.strmerce.live
-  - +.magnit.streamerce.live
   - +.xn--d1acpjx3f.xn--p1ai
+  - +.magnit.streamerce.live
   - +.xn-----6kc7adj0c9esa.com
-  - +.xn----7sbbamm1bv2bh7i.com
-  - +.xn----8sbaroledu6bi7j.com
   - +.8.230.248.89.in-addr.arpa
   - +.13.44.87.213.in-addr.arpa
+  - +.xn----7sbbamm1bv2bh7i.com
+  - +.xn----8sbaroledu6bi7j.com
   - +.kinopoisk-ru.clstorage.net
   - +.yandex-images.clstorage.net
   - +.i-sdk.mediation.unity3d.com

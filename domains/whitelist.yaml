@@ -1,331 +1,334 @@
 payload:
-  - +.ok.ru
-  - +.hh.ru
-  - +.vk.ru
-  - +.vk.me
   - +.bk.ru
+  - +.hh.ru
+  - +.ok.ru
   - +.vk.cc
-  - +.gb.ru
-  - +.ya.ru
+  - +.vk.me
+  - +.vk.ru
   - +.x5.ru
   - +.wb.ru
-  - +.icq.lt
-  - +.rbk.ru
-  - +.icq.ru
-  - +.eda.ru
-  - +.max.ru
-  - +.icq.im
-  - +.icq.eu
+  - +.ya.ru
+  - +.gb.ru
   - +.icq.fr
-  - +.ria.ru
-  - +.icq.sg
-  - +.gid.ru
-  - +.5ka.ru
-  - +.icq.de
-  - +.my.com
-  - +.mts.ru
   - +.vk.com
-  - +.ivi.ru
+  - +.my.com
+  - +.icq.sg
+  - +.icq.ru
+  - +.mts.ru
+  - +.icq.lt
+  - +.icq.im
+  - +.gid.ru
+  - +.icq.eu
+  - +.5ka.ru
   - +.icq.at
-  - +.cdek.ru
-  - +.2gis.am
-  - +.uchi.ru
+  - +.ivi.ru
+  - +.icq.de
+  - +.eda.ru
+  - +.rbk.ru
+  - +.ria.ru
+  - +.max.ru
   - +.dzen.ru
-  - +.mvk.com
-  - +.2gis.kg
-  - +.dahl.su
-  - +.icq.biz
-  - +.list.ru
-  - +.2gis.kz
+  - +.uchi.ru
+  - +.cdek.ru
   - +.vk.link
-  - +.2gis.ru
-  - +.okko.tv
-  - +.ozon.ru
-  - +.icq.com
-  - +.2gis.ge
-  - +.2gis.tj
-  - +.2gis.uz
+  - +.yota.ru
   - +.2gis.cz
+  - +.2gis.ge
+  - +.2gis.by
+  - +.icq.com
+  - +.2gis.ae
+  - +.vk.team
+  - +.2gis.tj
+  - +.2gis.kg
+  - +.icq.biz
+  - +.2gis.kz
+  - +.mvk.com
+  - +.ozon.ru
+  - +.okko.tv
+  - +.list.ru
+  - +.2gis.az
   - +.mail.ru
   - +.icq.org
+  - +.2gis.ru
   - +.boom.ru
-  - +.2gis.by
-  - +.2gis.az
-  - +.vk.team
-  - +.2gis.ae
-  - +.yota.ru
-  - +.2gis.com
-  - +.ruhub.tv
-  - +.foquz.ru
-  - +.lerna.ru
-  - +.tusco.ru
+  - +.2gis.am
+  - +.2gis.uz
+  - +.dahl.su
   - +.viqeo.tv
   - +.avito.ru
   - +.oneme.ru
-  - +.skbx.pro
+  - +.tusco.ru
   - +.youla.io
-  - +.inbox.ru
-  - +.youla.ru
-  - +.hhcdn.ru
-  - +.adfox.ru
-  - +.avito.st
-  - +.vkgo.app
+  - +.2gis.com
+  - +.hrtek.ru
+  - +.lenta.ru
   - +.mycdn.me
   - +.my.games
-  - +.hrtek.ru
-  - +.icq.asia
-  - +.okcdn.ru
-  - +.ozone.ru
-  - +.icq.mobi
-  - +.lenta.ru
-  - +.gu-st.ru
-  - +.yadro.ru
-  - +.wibes.ru
-  - +.nalog.ru
+  - +.inbox.ru
+  - +.hhcdn.ru
   - +.icq5.com
-  - +.goskey.ru
-  - +.pochta.ru
-  - +.qsrapp.ru
-  - +.paywb.com
-  - +.vkfest.ru
-  - +.uma.media
-  - +.2gis.tech
-  - +.rutube.ru
-  - +.yandex.ru
-  - +.rtbcdn.ru
-  - +.cdn-vk.ru
-  - +.mradx.net
-  - +.yads.tech
-  - +.x5club.ru
-  - +.magnit.ru
-  - +.mrgcdn.ru
-  - +.boosty.to
+  - +.gu-st.ru
+  - +.youla.ru
+  - +.lerna.ru
+  - +.icq.mobi
+  - +.nalog.ru
+  - +.okcdn.ru
+  - +.skbx.pro
+  - +.yadro.ru
+  - +.ruhub.tv
+  - +.ozone.ru
+  - +.vkgo.app
+  - +.icq.asia
+  - +.adfox.ru
+  - +.wibes.ru
+  - +.start.ru
+  - +.avito.st
+  - +.foquz.ru
   - +.datago.ru
-  - +.goicq.org
-  - +.ciciq.net
-  - +.ivicdn.tv
-  - +.vk.design
-  - +.hybrid.ai
-  - +.avito.com
-  - +.top100.ru
-  - +.vkplay.ru
-  - +.telega.me
+  - +.vkfest.ru
   - +.vk-cdn.me
-  - +.vk-apps.ru
-  - +.vkcs.cloud
+  - +.vk.design
+  - +.avito.com
+  - +.paywb.com
+  - +.x5club.ru
+  - +.uma.media
+  - +.rutube.ru
+  - +.rtbcdn.ru
+  - +.pochta.ru
+  - +.goicq.org
+  - +.vkplay.ru
+  - +.ciciq.net
+  - +.qsrapp.ru
+  - +.cdn-vk.ru
+  - +.goskey.ru
+  - +.top100.ru
+  - +.yads.tech
+  - +.magnit.ru
+  - +.yandex.ru
+  - +.hybrid.ai
+  - +.mrgcdn.ru
+  - +.mradx.net
+  - +.telega.me
+  - +.boosty.to
+  - +.2gis.tech
+  - +.ivicdn.tv
   - +.vk-cdn.net
-  - +.adhigh.net
-  - +.aodahl.com
-  - +.dev-my.com
-  - +.vk.company
-  - +.mtsbank.ru
-  - +.selcdn.net
-  - +.rambler.ru
-  - +.vkvideo.ru
-  - +.whitei.net
-  - +.yaklass.ru
-  - +.rustore.ru
-  - +.okko.sport
-  - +.rustore.tv
-  - +.esforce.ru
-  - +.armgs.team
-  - +.naydex.net
-  - +.vkuser.net
-  - +.mytopf.com
-  - +.yandex.com
-  - +.x5media.ru
-  - +.yandex.net
-  - +.lovina.app
-  - +.yastat.net
-  - +.vklive.app
-  - +.cdnmail.ru
-  - +.bizmrg.com
-  - +.movika.com
-  - +.mindbox.ru
-  - +.megafon.ru
-  - +.trex.media
   - +.ngenix.net
-  - +.smailru.net
-  - +.imgsmail.ru
-  - +.gismeteo.ru
-  - +.api.expf.ru
-  - +.gismeteo.by
-  - +.alfabank.ru
+  - +.rustore.ru
+  - +.aodahl.com
+  - +.rustore.tv
+  - +.mtsbank.ru
+  - +.armgs.team
+  - +.okko.sport
+  - +.whitei.net
+  - +.vkvideo.ru
+  - +.megafon.ru
+  - +.yastat.net
+  - +.dev-my.com
+  - +.lovina.app
+  - +.yandex.com
+  - +.rambler.ru
+  - +.movika.com
+  - +.selcdn.net
+  - +.vk-apps.ru
+  - +.vk.company
+  - +.adhigh.net
+  - +.vklive.app
+  - +.naydex.net
+  - +.esforce.ru
+  - +.vkcs.cloud
+  - +.trex.media
+  - +.mindbox.ru
+  - +.yaklass.ru
+  - +.vkuser.net
+  - +.yandex.net
+  - +.x5media.ru
+  - +.bizmrg.com
+  - +.cdnmail.ru
+  - +.mytopf.com
   - +.gismeteo.st
-  - +.tamtam.chat
-  - +.alfabank.st
-  - +.icqchat.com
-  - +.wbbasket.ru
-  - +.icqgame.com
-  - +.appsmail.ru
   - +.icqkids.com
-  - +.icqmail.com
-  - +.icqmail.net
-  - +.2gis.com.cy
-  - +.meteofor.st
-  - +.premier.one
-  - +.userapi.com
-  - +.vkclips.app
-  - +.mpgw-my.com
-  - +.koddobra.ru
-  - +.tivision.ru
-  - +.rostaxi.org
-  - +.vkcache.com
+  - +.imgsmail.ru
+  - +.wbbasket.ru
+  - +.pixonic.com
+  - +.smailru.net
   - +.mailicq.org
-  - +.mtsdengi.ru
   - +.vmailru.net
-  - +.esforce.com
-  - +.vk-apps.com
-  - +.vkplay.live
-  - +.skcrtxr.com
-  - +.viqeotv.com
-  - +.okkoinfo.ru
+  - +.telega.info
+  - +.tivision.ru
   - +.internet.ru
   - +.weborama.fr
-  - +.telega.info
-  - +.skillbox.ru
   - +.cups.online
-  - +.gitverse.ru
   - +.gamescup.ru
-  - +.pixonic.com
-  - +.tech-mail.ru
-  - +.icqtoday.com
-  - +.tarantool.io
-  - +.gosuslugi.ru
-  - +.dev-my.games
-  - +.meteofor.com
-  - +.gismeteo.net
-  - +.gismeteo.com
-  - +.mironline.ru
-  - +.myapelsin.ru
-  - +.vkontakte.ru
-  - +.chizhik.club
-  - +.magnitpay.ru
-  - +.umschool.net
+  - +.viqeotv.com
+  - +.startimg.ru
+  - +.appsmail.ru
+  - +.vkplay.live
+  - +.alfabank.ru
+  - +.skcrtxr.com
+  - +.icqmail.net
+  - +.icqmail.com
+  - +.skillbox.ru
+  - +.api.expf.ru
+  - +.alfabank.st
+  - +.mpgw-my.com
+  - +.icqgame.com
+  - +.icqchat.com
+  - +.gitverse.ru
+  - +.2gis.com.cy
+  - +.esforce.com
+  - +.vkclips.app
+  - +.mtsdengi.ru
+  - +.premier.one
+  - +.rostaxi.org
+  - +.gismeteo.by
+  - +.meteofor.st
+  - +.koddobra.ru
+  - +.okkoinfo.ru
+  - +.gismeteo.ru
+  - +.vkcache.com
+  - +.tamtam.chat
+  - +.userapi.com
+  - +.vk-apps.com
   - +.skillbox.pro
-  - +.vkusercdn.ru
-  - +.icqgames.com
-  - +.geobasket.ru
-  - +.tvgateway.ru
-  - +.ru.ruwiki.ru
-  - +.admetrica.ru
-  - +.yastatic.net
-  - +.dzeninfra.ru
-  - +.targetads.io
-  - +.kinopoisk.ru
-  - +.icqvideo.com
-  - +.icqtutor.com
-  - +.c.gpmdata.ru
-  - +.webvisor.com
-  - +.webvisor.org
-  - +.rustore.team
-  - +.x5static.net
-  - +.bargipsy.com
-  - +.staticmy.com
+  - +.myapelsin.ru
+  - +.gismeteo.net
   - +.sportmail.ru
-  - +.attachmy.com
+  - +.gismeteo.com
+  - +.gosuslugi.ru
+  - +.bargipsy.com
+  - +.meteofor.com
+  - +.c.gpmdata.ru
+  - +.magnitpay.ru
+  - +.chizhik.club
+  - +.kinopoisk.ru
   - +.yclients.com
-  - +.rutubelist.ru
-  - +.vk-stadium.ru
-  - +.icqsystem.com
-  - +.vk-records.ru
-  - +.yandexcom.net
-  - +.rambler-co.ru
-  - +.sferum-dev.ru
-  - +.mlbootcamp.ru
+  - +.dzeninfra.ru
+  - +.mironline.ru
+  - +.umschool.net
+  - +.icqgames.com
+  - +.vkontakte.ru
+  - +.tvgateway.ru
+  - +.webvisor.com
+  - +.tech-mail.ru
+  - +.ru.ruwiki.ru
+  - +.yastatic.net
+  - +.targetads.io
+  - +.x5static.net
+  - +.geobasket.ru
+  - +.vkusercdn.ru
+  - +.attachmy.com
+  - +.icqtoday.com
+  - +.icqtutor.com
+  - +.icqvideo.com
+  - +.staticmy.com
+  - +.rustore.team
+  - +.tarantool.io
+  - +.admetrica.ru
+  - +.webvisor.org
+  - +.dev-my.games
   - +.mirabilis.com
   - +.icqpeople.com
+  - +.yandexcom.net
+  - +.vk-records.ru
+  - +.vk-stadium.ru
+  - +.mlbootcamp.ru
+  - +.cdek.shopping
   - +.code-class.ru
+  - +.rutubelist.ru
+  - +.cybersport.ru
+  - +.alfadirect.ru
   - +.uxfeedback.ru
   - +.mobileicq.com
-  - +.icqonline.com
-  - +.vk-portal.net
-  - +.alfadirect.ru
-  - +.icqbrazil.com
-  - +.playfamily.ru
-  - +.dbankcloud.ru
-  - +.icqbrasil.com
-  - +.cybersport.ru
   - +.epicevents.gg
   - +.prod-my.games
-  - +.icq-phone.org
   - +.icq-phone.com
-  - +.cdek.shopping
-  - +.icqservers.com
-  - +.icq-mobile.com
-  - +.russianpost.ru
-  - +.vkuseraudio.ru
-  - +.mobile-icq.com
-  - +.vkuserlive.net
-  - +.vkuserphoto.ru
-  - +.mirandaicq.com
-  - +.perekrestok.ru
-  - +.vkuservideo.ru
-  - +.icq2mobile.com
-  - +.turbopages.org
-  - +.icqsystems.com
-  - +.wildberries.ru
+  - +.icq-phone.org
+  - +.sferum-dev.ru
+  - +.rambler-co.ru
+  - +.vk-portal.net
+  - +.playfamily.ru
+  - +.icqsystem.com
+  - +.icqbrasil.com
+  - +.icqbrazil.com
+  - +.dbankcloud.ru
+  - +.icqonline.com
   - +.icq-online.com
-  - +.memealerts.com
-  - +.tns-counter.ru
-  - +.summerstage.ru
-  - +.yandex-team.ru
+  - +.mirandaicq.com
+  - +.vkuseraudio.ru
+  - +.vkuserlive.net
   - +.icqservice.com
-  - +.yandex-bank.net
-  - +.knightspeak.com
-  - +.vkplay-arena.ru
-  - +.vkmessenger.app
-  - +.datacloudmy.com
-  - +.yandexcloud.net
-  - +.vkmessenger.com
-  - +.vkuseraudio.com
-  - +.vkuseraudio.net
+  - +.icqservers.com
+  - +.memealerts.com
+  - +.vkuserphoto.ru
+  - +.wildberries.ru
+  - +.mobile-icq.com
+  - +.icq2mobile.com
+  - +.icq-mobile.com
+  - +.summerstage.ru
+  - +.turbopages.org
+  - +.vkuservideo.ru
+  - +.icqsystems.com
+  - +.yandex-team.ru
+  - +.tns-counter.ru
+  - +.russianpost.ru
+  - +.perekrestok.ru
   - +.vk-analytics.ru
-  - +.algoritmika.org
-  - +.vkuservideo.com
-  - +.icqpassword.com
-  - +.vkuservideo.net
-  - +.icqflirting.com
-  - +.ws.tildacdn.com
-  - +.icqanywhere.com
   - +.skillfactory.ru
-  - +.weborama-tech.ru
-  - +.tarantoolplus.ru
-  - +.neo.tildacdn.com
-  - +.icq-download.com
-  - +.vkusnoitochka.ru
-  - +.mediumquality.ru
-  - +.it-territory.com
+  - +.datacloudmy.com
+  - +.icqpassword.com
+  - +.algoritmika.org
+  - +.ws.tildacdn.com
+  - +.yandex-bank.net
+  - +.yandexcloud.net
+  - +.vkmessenger.app
+  - +.vkmessenger.com
+  - +.vkuseraudio.net
+  - +.vkuseraudio.com
+  - +.icqflirting.com
+  - +.vkplay-arena.ru
+  - +.icqanywhere.com
+  - +.knightspeak.com
+  - +.vkuservideo.com
+  - +.vkuservideo.net
   - +.dbo-dengi.online
-  - +.cdn3.terratraf.io
-  - +.tetrika-school.ru
+  - +.it-territory.com
+  - +.tarantoolplus.ru
+  - +.weborama-tech.ru
+  - +.burgerkingrus.ru
+  - +.icq-download.com
+  - +.neo.tildacdn.com
+  - +.mediumquality.ru
+  - +.vkusnoitochka.ru
   - +.dahlmessenger.com
   - +.vkcloud-static.ru
+  - +.cdn3.terratraf.io
+  - +.tetrika-school.ru
   - +.yandexmetrica.com
-  - +.pochta-jam.wfmt.ru
+  - +.donationalerts.com
   - +.icqsupportteam.com
   - +.alfabank.oavdo.amc
+  - +.pochta-jam.wfmt.ru
   - +.yandexwebcache.org
-  - +.donationalerts.com
-  - +.xn--80asgb.xn--p1ai
-  - +.static.tildacdn.com
-  - +.xn--80aqcf7a6do.com
   - +.xn--e1aigb.xn--p1ai
-  - +.russiandesigncup.ru
+  - +.xn--80asgb.xn--p1ai
+  - +.xn--80aqcf7a6do.com
+  - +.static.tildacdn.com
   - +.ozonusercontent.com
-  - +.ruprod.strmerce.live
+  - +.russiandesigncup.ru
   - +.xn----8sbeoy5bze.com
   - +.yandexadexchange.net
-  - +.xn--d1acpjx3f.xn--p1ai
+  - +.ruprod.strmerce.live
   - +.magnit.streamerce.live
+  - +.xn--d1acpjx3f.xn--p1ai
   - +.xn-----6kc7adj0c9esa.com
-  - +.8.230.248.89.in-addr.arpa
-  - +.xn----8sbaroledu6bi7j.com
   - +.xn----7sbbamm1bv2bh7i.com
+  - +.xn----8sbaroledu6bi7j.com
+  - +.8.230.248.89.in-addr.arpa
   - +.13.44.87.213.in-addr.arpa
   - +.kinopoisk-ru.clstorage.net
-  - +.i-sdk.mediation.unity3d.com
   - +.yandex-images.clstorage.net
+  - +.i-sdk.mediation.unity3d.com
   - +.xn----7sbaba0dc6cdn7cxcj.com
   - +.xn----7sbbab6bregnh7b8if5b.com
   - +.xn----7sbabae2a0bnvtsfr4loc.com

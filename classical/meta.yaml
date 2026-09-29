@@ -246,6 +246,7 @@ payload:
   - IP-CIDR,94.198.177.0/24,no-resolve
   - IP-CIDR,95.94.0.0/15,no-resolve
   - IP-CIDR,95.107.145.0/24,no-resolve
+  - IP-CIDR,95.180.0.0/18,no-resolve
   - IP-CIDR,95.209.200.0/21,no-resolve
   - IP-CIDR,101.48.0.0/13,no-resolve
   - IP-CIDR,101.64.0.0/10,no-resolve

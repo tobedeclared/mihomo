@@ -30,6 +30,7 @@ payload:
   - PROCESS-NAME,rtb.mobile.android # RUTUBE
   - PROCESS-NAME,com.vkontakte.android # VK
   - PROCESS-NAME,ru.ivi.client # Иви
-  # - PROCESS-NAME,ru.sberbankmobile # Сбербанк
   - PROCESS-NAME,ru.pyaterochka.app.browser # Пятёрочка
   - PROCESS-NAME,com.gnivts.selfemployed # Мой налог
+  - PROCESS-NAME,ru.burgerking # Burger King
+  - PROCESS-NAME,com.apegroup.mcdonaldsrussia # Вкусно - и точка

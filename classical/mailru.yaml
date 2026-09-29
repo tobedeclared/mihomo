@@ -1,187 +1,188 @@
 payload:
   - DOMAIN-SUFFIX,vk.cc
-  - DOMAIN-SUFFIX,ok.ru
   - DOMAIN-SUFFIX,bk.ru
+  - DOMAIN-SUFFIX,gb.ru
+  - DOMAIN-SUFFIX,ok.ru
   - DOMAIN-SUFFIX,vk.ru
   - DOMAIN-SUFFIX,vk.me
-  - DOMAIN-SUFFIX,gb.ru
   - DOMAIN-SUFFIX,icq.eu
-  - DOMAIN-SUFFIX,icq.im
-  - DOMAIN-SUFFIX,icq.at
-  - DOMAIN-SUFFIX,icq.sg
-  - DOMAIN-SUFFIX,icq.ru
   - DOMAIN-SUFFIX,my.com
-  - DOMAIN-SUFFIX,icq.de
+  - DOMAIN-SUFFIX,icq.at
   - DOMAIN-SUFFIX,max.ru
-  - DOMAIN-SUFFIX,vk.com
+  - DOMAIN-SUFFIX,icq.de
   - DOMAIN-SUFFIX,icq.fr
+  - DOMAIN-SUFFIX,vk.com
+  - DOMAIN-SUFFIX,icq.im
   - DOMAIN-SUFFIX,icq.lt
-  - DOMAIN-SUFFIX,boom.ru
-  - DOMAIN-SUFFIX,vk.link
+  - DOMAIN-SUFFIX,icq.ru
+  - DOMAIN-SUFFIX,icq.sg
   - DOMAIN-SUFFIX,mvk.com
-  - DOMAIN-SUFFIX,vk.team
-  - DOMAIN-SUFFIX,uchi.ru
-  - DOMAIN-SUFFIX,list.ru
   - DOMAIN-SUFFIX,icq.org
   - DOMAIN-SUFFIX,mail.ru
-  - DOMAIN-SUFFIX,icq.com
-  - DOMAIN-SUFFIX,icq.biz
+  - DOMAIN-SUFFIX,boom.ru
+  - DOMAIN-SUFFIX,vk.team
   - DOMAIN-SUFFIX,dahl.su
-  - DOMAIN-SUFFIX,okcdn.ru
-  - DOMAIN-SUFFIX,oneme.ru
-  - DOMAIN-SUFFIX,ruhub.tv
-  - DOMAIN-SUFFIX,skbx.pro
-  - DOMAIN-SUFFIX,viqeo.tv
-  - DOMAIN-SUFFIX,hrtek.ru
-  - DOMAIN-SUFFIX,lerna.ru
-  - DOMAIN-SUFFIX,my.games
-  - DOMAIN-SUFFIX,vkgo.app
+  - DOMAIN-SUFFIX,icq.biz
+  - DOMAIN-SUFFIX,icq.com
+  - DOMAIN-SUFFIX,list.ru
+  - DOMAIN-SUFFIX,vk.link
+  - DOMAIN-SUFFIX,uchi.ru
   - DOMAIN-SUFFIX,mycdn.me
-  - DOMAIN-SUFFIX,youla.io
-  - DOMAIN-SUFFIX,icq.asia
-  - DOMAIN-SUFFIX,inbox.ru
-  - DOMAIN-SUFFIX,tusco.ru
+  - DOMAIN-SUFFIX,vkgo.app
   - DOMAIN-SUFFIX,youla.ru
   - DOMAIN-SUFFIX,icq5.com
+  - DOMAIN-SUFFIX,inbox.ru
+  - DOMAIN-SUFFIX,oneme.ru
+  - DOMAIN-SUFFIX,icq.asia
   - DOMAIN-SUFFIX,icq.mobi
-  - DOMAIN-SUFFIX,vk.design
-  - DOMAIN-SUFFIX,vkfest.ru
-  - DOMAIN-SUFFIX,mradx.net
-  - DOMAIN-SUFFIX,goicq.org
-  - DOMAIN-SUFFIX,mrgcdn.ru
-  - DOMAIN-SUFFIX,boosty.to
-  - DOMAIN-SUFFIX,vkplay.ru
-  - DOMAIN-SUFFIX,cdn-vk.ru
+  - DOMAIN-SUFFIX,youla.io
+  - DOMAIN-SUFFIX,hrtek.ru
+  - DOMAIN-SUFFIX,viqeo.tv
+  - DOMAIN-SUFFIX,lerna.ru
+  - DOMAIN-SUFFIX,skbx.pro
+  - DOMAIN-SUFFIX,tusco.ru
+  - DOMAIN-SUFFIX,okcdn.ru
+  - DOMAIN-SUFFIX,my.games
+  - DOMAIN-SUFFIX,ruhub.tv
   - DOMAIN-SUFFIX,vk-cdn.me
-  - DOMAIN-SUFFIX,telega.me
+  - DOMAIN-SUFFIX,vk.design
+  - DOMAIN-SUFFIX,cdn-vk.ru
   - DOMAIN-SUFFIX,ciciq.net
-  - DOMAIN-SUFFIX,vklive.app
-  - DOMAIN-SUFFIX,dev-my.com
-  - DOMAIN-SUFFIX,movika.com
-  - DOMAIN-SUFFIX,esforce.ru
-  - DOMAIN-SUFFIX,lovina.app
-  - DOMAIN-SUFFIX,vk-apps.ru
-  - DOMAIN-SUFFIX,vk-cdn.net
-  - DOMAIN-SUFFIX,vk.company
-  - DOMAIN-SUFFIX,armgs.team
-  - DOMAIN-SUFFIX,yaklass.ru
-  - DOMAIN-SUFFIX,vkcs.cloud
-  - DOMAIN-SUFFIX,vkuser.net
-  - DOMAIN-SUFFIX,rustore.tv
+  - DOMAIN-SUFFIX,vkplay.ru
+  - DOMAIN-SUFFIX,mradx.net
+  - DOMAIN-SUFFIX,boosty.to
+  - DOMAIN-SUFFIX,mrgcdn.ru
+  - DOMAIN-SUFFIX,telega.me
+  - DOMAIN-SUFFIX,vkfest.ru
+  - DOMAIN-SUFFIX,goicq.org
   - DOMAIN-SUFFIX,aodahl.com
+  - DOMAIN-SUFFIX,lovina.app
+  - DOMAIN-SUFFIX,armgs.team
+  - DOMAIN-SUFFIX,movika.com
   - DOMAIN-SUFFIX,rustore.ru
-  - DOMAIN-SUFFIX,mytopf.com
+  - DOMAIN-SUFFIX,esforce.ru
+  - DOMAIN-SUFFIX,yaklass.ru
+  - DOMAIN-SUFFIX,rustore.tv
+  - DOMAIN-SUFFIX,vk-cdn.net
   - DOMAIN-SUFFIX,vkvideo.ru
+  - DOMAIN-SUFFIX,vkuser.net
+  - DOMAIN-SUFFIX,vkcs.cloud
+  - DOMAIN-SUFFIX,dev-my.com
+  - DOMAIN-SUFFIX,vklive.app
+  - DOMAIN-SUFFIX,vk.company
+  - DOMAIN-SUFFIX,whitei.net
+  - DOMAIN-SUFFIX,mytopf.com
+  - DOMAIN-SUFFIX,vk-apps.ru
   - DOMAIN-SUFFIX,bizmrg.com
   - DOMAIN-SUFFIX,cdnmail.ru
-  - DOMAIN-SUFFIX,whitei.net
-  - DOMAIN-SUFFIX,imgsmail.ru
+  - DOMAIN-SUFFIX,icqmail.net
+  - DOMAIN-SUFFIX,pixonic.com
   - DOMAIN-SUFFIX,mpgw-my.com
-  - DOMAIN-SUFFIX,mailicq.org
-  - DOMAIN-SUFFIX,icqchat.com
+  - DOMAIN-SUFFIX,koddobra.ru
   - DOMAIN-SUFFIX,appsmail.ru
   - DOMAIN-SUFFIX,smailru.net
-  - DOMAIN-SUFFIX,pixonic.com
+  - DOMAIN-SUFFIX,imgsmail.ru
   - DOMAIN-SUFFIX,vmailru.net
-  - DOMAIN-SUFFIX,icqmail.net
-  - DOMAIN-SUFFIX,telega.info
+  - DOMAIN-SUFFIX,vkplay.live
+  - DOMAIN-SUFFIX,userapi.com
   - DOMAIN-SUFFIX,internet.ru
-  - DOMAIN-SUFFIX,icqmail.com
+  - DOMAIN-SUFFIX,icqchat.com
   - DOMAIN-SUFFIX,cups.online
   - DOMAIN-SUFFIX,gamescup.ru
   - DOMAIN-SUFFIX,viqeotv.com
-  - DOMAIN-SUFFIX,vkclips.app
-  - DOMAIN-SUFFIX,vkplay.live
-  - DOMAIN-SUFFIX,vkcache.com
-  - DOMAIN-SUFFIX,icqkids.com
-  - DOMAIN-SUFFIX,koddobra.ru
-  - DOMAIN-SUFFIX,tamtam.chat
   - DOMAIN-SUFFIX,vk-apps.com
-  - DOMAIN-SUFFIX,skillbox.ru
-  - DOMAIN-SUFFIX,userapi.com
+  - DOMAIN-SUFFIX,telega.info
+  - DOMAIN-SUFFIX,vkcache.com
+  - DOMAIN-SUFFIX,vkclips.app
   - DOMAIN-SUFFIX,icqgame.com
+  - DOMAIN-SUFFIX,icqkids.com
+  - DOMAIN-SUFFIX,icqmail.com
+  - DOMAIN-SUFFIX,skillbox.ru
   - DOMAIN-SUFFIX,esforce.com
-  - DOMAIN-SUFFIX,bargipsy.com
-  - DOMAIN-SUFFIX,icqtutor.com
-  - DOMAIN-SUFFIX,icqgames.com
+  - DOMAIN-SUFFIX,mailicq.org
+  - DOMAIN-SUFFIX,tamtam.chat
   - DOMAIN-SUFFIX,umschool.net
-  - DOMAIN-SUFFIX,sportmail.ru
-  - DOMAIN-SUFFIX,vkontakte.ru
-  - DOMAIN-SUFFIX,skillbox.pro
-  - DOMAIN-SUFFIX,icqtoday.com
-  - DOMAIN-SUFFIX,vkusercdn.ru
-  - DOMAIN-SUFFIX,tarantool.io
-  - DOMAIN-SUFFIX,rustore.team
   - DOMAIN-SUFFIX,tech-mail.ru
-  - DOMAIN-SUFFIX,yclients.com
-  - DOMAIN-SUFFIX,dev-my.games
+  - DOMAIN-SUFFIX,vkontakte.ru
   - DOMAIN-SUFFIX,icqvideo.com
-  - DOMAIN-SUFFIX,attachmy.com
+  - DOMAIN-SUFFIX,dev-my.games
+  - DOMAIN-SUFFIX,icqtutor.com
+  - DOMAIN-SUFFIX,sportmail.ru
+  - DOMAIN-SUFFIX,icqtoday.com
+  - DOMAIN-SUFFIX,skillbox.pro
+  - DOMAIN-SUFFIX,rustore.team
+  - DOMAIN-SUFFIX,icqgames.com
+  - DOMAIN-SUFFIX,tarantool.io
+  - DOMAIN-SUFFIX,yclients.com
   - DOMAIN-SUFFIX,staticmy.com
-  - DOMAIN-SUFFIX,mirabilis.com
-  - DOMAIN-SUFFIX,mlbootcamp.ru
-  - DOMAIN-SUFFIX,sferum-dev.ru
-  - DOMAIN-SUFFIX,mobileicq.com
-  - DOMAIN-SUFFIX,icq-phone.org
-  - DOMAIN-SUFFIX,vk-stadium.ru
-  - DOMAIN-SUFFIX,vk-records.ru
-  - DOMAIN-SUFFIX,icq-phone.com
-  - DOMAIN-SUFFIX,prod-my.games
-  - DOMAIN-SUFFIX,code-class.ru
-  - DOMAIN-SUFFIX,vk-portal.net
-  - DOMAIN-SUFFIX,icqsystem.com
-  - DOMAIN-SUFFIX,icqbrasil.com
+  - DOMAIN-SUFFIX,attachmy.com
+  - DOMAIN-SUFFIX,vkusercdn.ru
+  - DOMAIN-SUFFIX,bargipsy.com
   - DOMAIN-SUFFIX,icqbrazil.com
-  - DOMAIN-SUFFIX,cybersport.ru
-  - DOMAIN-SUFFIX,icqpeople.com
   - DOMAIN-SUFFIX,icqonline.com
+  - DOMAIN-SUFFIX,sferum-dev.ru
+  - DOMAIN-SUFFIX,mlbootcamp.ru
+  - DOMAIN-SUFFIX,vk-portal.net
+  - DOMAIN-SUFFIX,code-class.ru
+  - DOMAIN-SUFFIX,vk-stadium.ru
+  - DOMAIN-SUFFIX,prod-my.games
+  - DOMAIN-SUFFIX,vk-records.ru
+  - DOMAIN-SUFFIX,mobileicq.com
+  - DOMAIN-SUFFIX,mirabilis.com
+  - DOMAIN-SUFFIX,cybersport.ru
   - DOMAIN-SUFFIX,epicevents.gg
-  - DOMAIN-SUFFIX,icqservice.com
-  - DOMAIN-SUFFIX,mirandaicq.com
-  - DOMAIN-SUFFIX,vkuserlive.net
+  - DOMAIN-SUFFIX,icqbrasil.com
+  - DOMAIN-SUFFIX,icq-phone.org
+  - DOMAIN-SUFFIX,icq-phone.com
+  - DOMAIN-SUFFIX,icqsystem.com
+  - DOMAIN-SUFFIX,icqpeople.com
   - DOMAIN-SUFFIX,icq-mobile.com
-  - DOMAIN-SUFFIX,icq-online.com
-  - DOMAIN-SUFFIX,vkuserphoto.ru
-  - DOMAIN-SUFFIX,icqservers.com
-  - DOMAIN-SUFFIX,memealerts.com
-  - DOMAIN-SUFFIX,vkuservideo.ru
-  - DOMAIN-SUFFIX,vkuseraudio.ru
-  - DOMAIN-SUFFIX,icqsystems.com
   - DOMAIN-SUFFIX,icq2mobile.com
-  - DOMAIN-SUFFIX,summerstage.ru
+  - DOMAIN-SUFFIX,vkuserlive.net
+  - DOMAIN-SUFFIX,vkuserphoto.ru
+  - DOMAIN-SUFFIX,vkuseraudio.ru
   - DOMAIN-SUFFIX,mobile-icq.com
-  - DOMAIN-SUFFIX,vkmessenger.app
-  - DOMAIN-SUFFIX,icqanywhere.com
-  - DOMAIN-SUFFIX,icqpassword.com
-  - DOMAIN-SUFFIX,icqflirting.com
-  - DOMAIN-SUFFIX,vkuservideo.com
-  - DOMAIN-SUFFIX,knightspeak.com
-  - DOMAIN-SUFFIX,vkplay-arena.ru
-  - DOMAIN-SUFFIX,vkmessenger.com
-  - DOMAIN-SUFFIX,skillfactory.ru
-  - DOMAIN-SUFFIX,vkuseraudio.com
+  - DOMAIN-SUFFIX,icq-online.com
+  - DOMAIN-SUFFIX,icqservers.com
+  - DOMAIN-SUFFIX,icqservice.com
+  - DOMAIN-SUFFIX,vkuservideo.ru
+  - DOMAIN-SUFFIX,mirandaicq.com
+  - DOMAIN-SUFFIX,icqsystems.com
+  - DOMAIN-SUFFIX,memealerts.com
+  - DOMAIN-SUFFIX,summerstage.ru
   - DOMAIN-SUFFIX,vkuseraudio.net
-  - DOMAIN-SUFFIX,datacloudmy.com
-  - DOMAIN-SUFFIX,algoritmika.org
   - DOMAIN-SUFFIX,vkuservideo.net
-  - DOMAIN-SUFFIX,it-territory.com
-  - DOMAIN-SUFFIX,icq-download.com
-  - DOMAIN-SUFFIX,mediumquality.ru
+  - DOMAIN-SUFFIX,icqanywhere.com
+  - DOMAIN-SUFFIX,icqflirting.com
+  - DOMAIN-SUFFIX,icqpassword.com
+  - DOMAIN-SUFFIX,vkplay-arena.ru
+  - DOMAIN-SUFFIX,vk-analytics.ru
+  - DOMAIN-SUFFIX,vkmessenger.com
+  - DOMAIN-SUFFIX,algoritmika.org
+  - DOMAIN-SUFFIX,vkuservideo.com
+  - DOMAIN-SUFFIX,vkuseraudio.com
+  - DOMAIN-SUFFIX,datacloudmy.com
+  - DOMAIN-SUFFIX,vkmessenger.app
+  - DOMAIN-SUFFIX,knightspeak.com
+  - DOMAIN-SUFFIX,skillfactory.ru
   - DOMAIN-SUFFIX,tarantoolplus.ru
-  - DOMAIN-SUFFIX,dahlmessenger.com
-  - DOMAIN-SUFFIX,vkcloud-static.ru
+  - DOMAIN-SUFFIX,icq-download.com
+  - DOMAIN-SUFFIX,it-territory.com
+  - DOMAIN-SUFFIX,mediumquality.ru
   - DOMAIN-SUFFIX,cdn3.terratraf.io
   - DOMAIN-SUFFIX,tetrika-school.ru
+  - DOMAIN-SUFFIX,dahlmessenger.com
+  - DOMAIN-SUFFIX,vkcloud-static.ru
   - DOMAIN-SUFFIX,icqsupportteam.com
   - DOMAIN-SUFFIX,donationalerts.com
-  - DOMAIN-SUFFIX,xn--80asgb.xn--p1ai
   - DOMAIN-SUFFIX,xn--80aqcf7a6do.com
-  - DOMAIN-SUFFIX,russiandesigncup.ru
   - DOMAIN-SUFFIX,xn--e1aigb.xn--p1ai
+  - DOMAIN-SUFFIX,xn--80asgb.xn--p1ai
+  - DOMAIN-SUFFIX,russiandesigncup.ru
   - DOMAIN-SUFFIX,xn----8sbeoy5bze.com
   - DOMAIN-SUFFIX,xn-----6kc7adj0c9esa.com
-  - DOMAIN-SUFFIX,xn----8sbaroledu6bi7j.com
   - DOMAIN-SUFFIX,xn----7sbbamm1bv2bh7i.com
+  - DOMAIN-SUFFIX,xn----8sbaroledu6bi7j.com
   - DOMAIN-SUFFIX,i-sdk.mediation.unity3d.com
   - DOMAIN-SUFFIX,xn----7sbaba0dc6cdn7cxcj.com
   - DOMAIN-SUFFIX,xn----7sbbab6bregnh7b8if5b.com

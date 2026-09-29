@@ -9,31 +9,32 @@ payload:
   - +.vkgo.app
   - +.okcdn.ru
   - +.vk-cdn.me
-  - +.vk.design
   - +.mradx.net
   - +.cdn-vk.ru
+  - +.vk.design
+  - +.vk-cdn.net
+  - +.vkuser.net
   - +.vk-apps.ru
   - +.vk.company
-  - +.vkuser.net
   - +.whitei.net
-  - +.vkvideo.ru
-  - +.vk-cdn.net
   - +.vklive.app
+  - +.vkvideo.ru
   - +.vk-apps.com
-  - +.userapi.com
   - +.vkcache.com
+  - +.userapi.com
   - +.vkusercdn.ru
   - +.vkontakte.ru
   - +.vk-portal.net
-  - +.vkuserlive.net
-  - +.vkuservideo.ru
-  - +.vkuserphoto.ru
   - +.vkuseraudio.ru
-  - +.vkuservideo.com
-  - +.vkuseraudio.net
+  - +.vkuserlive.net
+  - +.vkuserphoto.ru
+  - +.vkuservideo.ru
   - +.vkmessenger.com
-  - +.vkuservideo.net
   - +.vkuseraudio.com
+  - +.vkuseraudio.net
   - +.vkmessenger.app
+  - +.vkuservideo.com
+  - +.vkuservideo.net
+  - +.vk-analytics.ru
   - +.vkcloud-static.ru
   - +.i-sdk.mediation.unity3d.com
